@@ -1,0 +1,39 @@
+#offsidebar-wrapper {
+  min-height: 100vh;
+  position: fixed;
+  top: 50px;
+  right: 0px;
+  left: initial;
+  width: 275px;
+  -webkit-transition: all 0.25s ease-out;
+  -moz-transition: all 0.25s ease-out;
+  -o-transition: all 0.25s ease-out;
+  transition: all 0.25s ease-out;
+}
+
+#offsidebar-wrapper.toggled {
+  position: absolute;
+}
+
+#offsidebar-wrapper .offsidebar-heading {
+  padding: 0.875rem 1.25rem;
+  font-size: 1.2rem;
+}
+
+#offsidebar-wrapper .list-group {
+  width: 15rem;
+}
+
+#offsidebar-wrapper.toggled {
+  margin-right: 0;
+}
+
+@media (min-width: 768px) {
+  #offsidebar-wrapper {
+    right: -275px;
+  }
+
+  #offsidebar-wrapper.toggled {
+    right: 0px;
+  }
+}
