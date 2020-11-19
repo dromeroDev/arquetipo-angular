@@ -1,8 +1,4 @@
-import { Component, OnInit, ViewChild, Injector } from '@angular/core';
-import { Router } from '@angular/router';
-
-import { MenuService } from '../../core/menu/menu.service';
-//import { Screenfull } from 'screenfull';
+import { Component } from '@angular/core';
 
 @Component({
     selector: 'app-header',
@@ -17,5 +13,8 @@ export class HeaderComponent {
     toogleOffside(){
         const element = document.getElementById("offsidebar-wrapper");
         element.classList.toggle("toggled");
+    }
+    showNotification(){
+        
     }
 }

@@ -9,7 +9,8 @@ const routes: Routes = [
     component: LayoutComponent,
     children: [
         { path: '', redirectTo: 'home', pathMatch: 'full' },
-        { path: 'home', loadChildren: () => import('./modules/home/home.module').then(m => m.HomeModule) }
+        { path: 'home', loadChildren: () => import('./modules/home/home.module').then(m => m.HomeModule) },
+        { path: 'abm', loadChildren: () => import('./modules/abm/abm.module').then(m => m.AbmModule) }
     ]
   },
 
