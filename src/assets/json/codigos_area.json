@@ -1,0 +1,1506 @@
+[{
+        "codigo": "11",
+        "jurisdiccion": "Ciudad Autónoma de Buenos Aires/\nProvincia de Buenos Aires (dentro del área metropolitana)",
+        "localidades": "Buenos Aires , Acassuso, Adrogué, Aeropuerto Internacional Ezeiza, Aldo Bonzi, Área de Promoción El Triángulo, Avellaneda, Banfield, Beccar, Bella Vista, Berazategui, Bernal, Billinghurst, Bosques, Boulogne Sur Mer, Burzaco, Campo de Mayo, Canning, Caseros, Castelar, Ciudad Evita, Ciudad Jardín Lomas del Palomar, Ciudadela, Churruca, Claypole, Crucecita, Dock Sud, Don Bosco, Don Orione, Don Torcuato, El Jagüel, El Libertador, El Palomar, El Talar, Estanislao Zeballos, Ezeiza, Ezpeleta, Florencio Varela, General Pacheco, Gerli, Gobernador Julio A. Costa, Gregorio de Laferrere, Haedo, Hudson, Hurlingham, Ingeniero Adolfo Sourdeaux, Ingeniero Budge, Ingeniero Pablo Nogués, Isidro Casanova, Ituzaingó, José Ingenieros, José León Suárez, José Mármol, La Tablada, La Unión, Lanús, Llavallol, Loma Hermosa, Lomas de Zamora, Lomas del Mirador, Longchamps, Los Polvorines, Luis Guillón, Malvinas Argentinas (Almirante Brown), Malvinas Argentinas (Malvinas Argentinas), Martín Coronado, Martínez, Ministro Rivadavia, Monte Chingolo, Monte Grande, Morón, Munro, Muñiz, Nordelta, Nueve de Abril, Olivos, Once de Septiembre, Pablo Podestá, Piñeyro, Plátanos, Quilmes, Rafael Calzada, Rafael Castillo, Ramos Mejía, Ranelagh, Remedios de Escalada, Rincón de Milberg, Sáenz Peña, San Andrés, San Fernando, San Francisco Solano, San Isidro, San José, San Justo, San Martín, San Miguel, Santa María, Santos Lugares, Sarandí, Sourigues, Tapiales, Temperley, Tierras Altas, Tigre, Tristán Suárez, Troncos del Talar, Turdera, Valentín Alsina, Victoria, Villa Adelina, Villa Albertina, Villa Ballester, Villa Bosch, Villa Brown, Villa Centenario, Villa de Mayo, Villa Domínico, Villa España, Villa Fiorito, Villa La Florida, Villa Luzuriaga, Villa Lynch, Villa Madero, Villa Maipú, Villa Raffo, Villa San Luis, Villa Sarmiento, Villa Tesei, Villa Vatteone, Virreyes, Wilde, William C. Morris"
+    },
+    {
+        "codigo": "220",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Merlo, General Hornos, General Las Heras, La Choza, Libertad, Marcos Paz, Mariano Acosta, Parque San Martín, Plomer, Pontevedra, San Antonio de Padua, 20 de Junio, Villars"
+    },
+    {
+        "codigo": "221",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "La Plata, Abasto, Ángel Etcheverry, Arturo Seguí, Barrio Banco Provincia, Barrio El Carmen Este, Barrio Universitario, Berisso, City Bell, Dique Nº 1, Ensenada, General Mansilla (Est. Bartolomé Bavio), Ignacio Correas, Isla Santiago Oeste, Joaquín Gorina, José Hernández, Lomas de Copello, José Melchor Romero, Las Golondrinas, Lisandro Olmos, Los Hornos, Los Naranjos, Los Talas, Manuel B. Gonnet, Punta Lara, Ringuelet, Tolosa, Villa Argüello, Villa Catella, Villa Dolores, Villa Elisa, Villa Elvira, Villa Garibaldi, Villa Independencia, Villa Nueva, Villa Porteña, Villa Zula"
+    },
+    {
+        "codigo": "223",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Mar del Plata, Batán, Camet, Chapadmalal, Estación Chapadmalal, La Gloria de la Peregrina, Santa Clara del Mar, Sierra de los Padres"
+    },
+    {
+        "codigo": "230",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Pilar , Arroyo de La Cruz, Del Viso, Diego Gaynor, Etchegoyen, Fátima, La Lonja, Los Cardales, Manuel Alberti, Manzanares, Parada Orlando, Presidente Derqui, Villa Astolfi, Villa Rosa, Zelaya"
+    },
+    {
+        "codigo": "236",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Junín, Agustín Roca, Agustina, Balneario Laguna de Gómez, Baigorrita, Fortín Tiburcio, Laplacette, Leandro N. Alem, Morse, Saforcada"
+    },
+    {
+        "codigo": "237",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Moreno, Cuartel V, Francisco Álvarez, General Rodríguez, La Reja, Paso del Rey, Trujui"
+    },
+    {
+        "codigo": "249",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Tandil, De la Canal, Desvío Aguirre, Fulton, Gardey, María Ignacia (Estación Vela)"
+    },
+    {
+        "codigo": "260",
+        "jurisdiccion": "Mendoza",
+        "localidades": "San Rafael, Agua Escondida, Bardas Blancas, Barrio Echeverría, Barrio Empleados de Comercio, Barrio Intendencia, Barrio Primavera, Capitán Montoya, Costa El Toledano, Cuadro Benegas, Cuadro Nacional, El Nihuil, El Sosneado, El Tropezón, Goudge, La Llave, Las Leñas, Las Malvinas, Las Paredes, Los Reyunos, Malargüe, Monte Comán, Rama Caída, Salto de las Rosas, Villa Veinticinco de Mayo"
+    },
+    {
+        "codigo": "261",
+        "jurisdiccion": "Mendoza",
+        "localidades": "Mendoza, Agrelo, Alto del Olvido, Barrancas, Barrio Jesús de Nazaret, Barrio Jocolí II, Barrio La Esperanza, Barrio Los Jarilleros, Barrio Tres Olivos, Blanco Encalada, Cacheuta, Capdevilla, Carrodilla, Chacras de Coria, Colonia Segovia, Coquimbito, Costa de Araujo, Cruz de Piedra, El Carrizal, El Paramillo, El Vergel, Fray Luis Beltrán, Godoy Cruz, Ingeniero Gustavo André, Jocolí, Jocolí Viejo, La Palmera, La Pega, La Primavera, Lagunas de Bartoluzzi, Las Compuertas, Las Heras, Las Violetas, Los Corralitos, Luján de Cuyo, Lunlunta, Luzuriaga, Maipú, Perdriel, Puente de Hierro, Rodeo de la Cruz, Rodeo del Medio, Russell, San Roque, Tres de Mayo, Tres Esquinas, Ugarteche, Villa Nueva, Villa Teresa, Villa Tulumaya"
+    },
+    {
+        "codigo": "263",
+        "jurisdiccion": "Mendoza",
+        "localidades": "San Martín, Alto Salvador, Alto Verde, Andrade, Barrio Chivilcoy, Barrio Cooperativa Los Campamentos, Barrio María Auxiliadora, Barrio Rivadavia, Chapanay, Cuadro Ortega, Doce de Octubre, El Central, El Marcado, El Mirador, Ingeniero Giagnoni, Junín, La Central, La Colonia, La Dormida, La Esperanza, La Florida, La Libertad, La Reducción, Las Catitas, Los Árboles, Los Charabones, Los Campamentos, Medrano, Montecaseros, Mundo Nuevo, Nueva California, Palmira, Phillips, Rivadavia, Rodríguez Peña, Santa María de Oro, Santa Rosa, Tres Porteñas, Villa Los Barriales"
+    },
+    {
+        "codigo": "264",
+        "jurisdiccion": "San Juan",
+        "localidades": "San Juan, Albardón, Alto de Sierra (Nueve de Julio), Alto de Sierra (Santa Lucía), Barrio Ruta 40, Barrio Sadop, Bermejo, Cañada Honda, Caucete, Campo Afuera, Carpintería, Cienaguita, Colonia Fiorito, Colonia Fiscal, Colonia Gutiérrez, Divisadero, Dos Acequias, El Encón, El Medanito, El Rincón (Albardón), El Rincón (Caucete), General San Martín, Guanacache, La Cañada, La Chimbera, La Rinconada, Las Chacritas, Las Lagunas, Las Talas, Las Tapias, Los Berros, Los Médanos, Marayes, Media Agua, Nueve de Julio, Pedernal, Pie de Palo, Punta del Médano, Quinto Cuartel, Rawson, Rivadavia, San Isidro, San Martín, Santa Lucía, Santa Rosa, Tupelí, Vallecito, Villa Aberastain, Villa Ampacama, Villa Barboza, Villa Basilio Nievas, Villa Bolaños, Villa Borjas, Villa Centenario, Villa del Salvador, Villa Dominguito, Villa Don Bosco, Villa El Tango, Villa Ibáñez, Villa Independencia, Villa Krause, Villa Nacusi, Villa Paula Albarracín de Sarmiento, Villa Sefair Talacasto, Villa Tacú"
+    },
+    {
+        "codigo": "266",
+        "jurisdiccion": "San Luis",
+        "localidades": "San Luis, Alto Pelado, Alto Pencoso, Carolina, Desaguadero (parte), El Trapiche, El Volcán, Juana Koslay, La Calera, La Florida, La Punta, Potrero de los Funes (parte), San Gerónimo, Villa de la Quebrada, Zanjitas"
+    },
+    {
+        "codigo": "280",
+        "jurisdiccion": "Chubut",
+        "localidades": "Trelew, Blancuntre, Cerro Cóndor, Dolavon, El Escorial, El Mirasol, El Sombrero, Gaiman, Gan Gan, Gastre, Lagunita Salada, Las Plumas, Los Altares, Paso de Indios, Playa Magagna, Playa Unión, Puerto Madryn, Puerto Pirámides, Quinta El Mirador, Rawson, Telsen, Veintiocho de Julio, Villa Dique Florentino Ameghino, Yala Laubat"
+    },
+    {
+        "codigo": "291",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Bahía Blanca, Balneario La Chiquita, Cabildo, Chasicó, Colonia Monte La Plata, Colonia San Adolfo, General Daniel Cerri, Grünbein, Ingeniero White, Juan Cousté, Mayor Buratovich, Saldungaray, Sierra de la Ventana, Teniente Origone, Tornquist, Tres Picos, Villa Arcadia, Villa Bordeu, Villa Espora, Villa Serrana La Gruta, Villa Ventana"
+    },
+    {
+        "codigo": "294",
+        "jurisdiccion": "Río Negro\nNeuquén\nChubut",
+        "localidades": "San Carlos de Bariloche, Colonia Suiza, Dina Huapi, El Bolsón, El Foyel, El Manso, Hoyo de Epuyén, Lago Puelo, Mamuel Choique, Ñirihuau, Ñorquincó, Paso Flores, Pilcaniyeu, Pilquiniyeu del Limay, Río Chico Río Villegas, Villa Campanario, Villa Cerro Catedral, Villa La Angostura, Villa Llanquín, Villa Llao Llao, Villa Los Coihues, Villa Mascardi, Villa Traful"
+    },
+    {
+        "codigo": "297",
+        "jurisdiccion": "Chubut\nSanta Cruz",
+        "localidades": "Comodoro Rivadavia, Astra, Caleta Olivia, Camarones, Cañadón Seco, Diadema Argentina, Fitz Roy, Garayalde, Jaramillo, Koluel Kayke, Las Heras, Pico Truncado, Puerto Deseado, Rada Tilly, Sarmiento, Tellier"
+    },
+    {
+        "codigo": "298",
+        "jurisdiccion": "Río Negro",
+        "localidades": "General Roca, Aguada Guzmán, Allen, Cerro Policía, Cervantes, Chichinales, Coronel Juan José Gómez, El Cuy, General Enrique Godoy, Guerrico, Ingeniero Luis A. Huergo, Ingeniero Otto Krause, Mainqué, Mencué, Padre Stefenelli, Paso Córdoba, Valle Azul, Villa Alberdi, Villa del Parque, Villa Regina"
+    },
+    {
+        "codigo": "299",
+        "jurisdiccion": "Neuquén\nRío Negro\nLa Pampa",
+        "localidades": "Neuquén, Aguada San Roque, Añelo, Bajo San Cayetano, Barda del Medio, Campo Grande, Casa de Piedra, Catriel, Centenario, Cinco Saltos, Cipolletti, Contralmirante Cordero, Cutral-Co, Ferri, General Fernández Oro, Las Perlas, Octavio Pico, Península Ruca Co, Peñas Blancas, Plaza Huincul, Plottier, Puelén, Rincón de los Sauces, San Patricio del Chañar, Sargento Vidal, Senillosa, Veinticinco de Mayo, Villa El Chocón, Villa Manzano, Villa San Isidro, Vista Alegre|"
+    },
+    {
+        "codigo": "336",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "San Nicolás de los Arroyos , Campos Salles, Conesa, Erézcano, General Rojo, La Emilia, Villa Campi, Villa Canto, Villa Esperanza, Villa Hermosa, Villa Riccio"
+    },
+    {
+        "codigo": "341",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Rosario , Alvear, Arbilla, Capitán Bermúdez, Carcarañá, Coronel Arnold, El Caramelo, Fray Luis Beltrán, Funes, Granadero Baigorria, Ibarlucea, Kilómetro 101, La Carolina, Pérez, Roldán, San Jerónimo Sud, Soldini, Villa del Plata, Villa Gobernador Gálvez, Zavalla, San Lorenzo,"
+    },
+    {
+        "codigo": "342",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Santa Fe, Ángel Gallardo, Arroyo Aguiar, Arroyo Leyes, Barrio Caima, Cabal, Campo Andino, Chaco Chico, Coronda, Desvío Arijón, Empalme San Carlos, Franck, Gobernador Candioti, Laguna Paiva, Las Tunas, Matilde, Monte Vera, Nelson, Paraje La Costa, Plaza Matilde, Recreo, Rincón Potrero, San Agustín, San José del Rincón, Santa Rosa de Calchines, Santo Tomé, Sauce Viejo, Villa Laura"
+    },
+    {
+        "codigo": "343",
+        "jurisdiccion": "Entre Ríos",
+        "localidades": "Paraná, Aldea Brasilera, Aldea María Luisa, Aldea Protestante, Aldea Salto, Aldea Santa María, Aldea Spatzenkutter, Aldea Valle María, Cerrito, Colonia Avellaneda, Colonia Ensayo, Crespo, Diamante, Estación Camps, El Palenque, El Pingo, General Racedo, General Ramírez, Gobernador Etchevehere, Hasenkamp, La Picada, Las Tunas, Libertador San Martín, María Grande, Oro Verde, Paso de la Arena, Pueblo Bellocq, Pueblo Brugo, Puerto Alvear, Puerto Las Cuevas, San Benito, Sauce Montrull, Sauce Pinto, Seguí, Sosa, Tabossi, Tezanos Pinto, Viale, Villa Fontana, Villa Hernandarias, Villa Urquiza"
+    },
+    {
+        "codigo": "345",
+        "jurisdiccion": "Entre Ríos",
+        "localidades": "Concordia, Colonia Ayuí, Colonia Baylina, Colonia Oficial Nº 5, Colonia Roca, Colonia San Justo, Clodomiro Ledesma, El Redomón, Estancia Grande, Estación Yeruá, General Campos, Hambis, La Criolla, Los Charrúas, Nueva Escocia, Pedernal, Puerto Yeruá, San Salvador, Ubajay, Walter Moss"
+    },
+    {
+        "codigo": "348",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Belén de Escobar , Dique Luján, Garín, Ingeniero Maschwitz, Maquinista F. Savio, Loma Verde, Matheu, Puerto Paraná"
+    },
+    {
+        "codigo": "351",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Córdoba, Barrio Gilbert, Bouwer, Caseros Centro, Causana, Colonia Tirolesa, Estación Colonia Tirolesa, Estación Juárez Celman, Guiñazú Norte, La Carbonada, La Perla, Malagueño, Malvinas Argentinas, Mi Granja, Monte Cristo, Santa Elena, Toledo, Villa Los Llanos, Villa Sierras de Oro, Yocsina"
+    },
+    {
+        "codigo": "353",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Villa María, Ana Zumarán, Arroyo Algodón, Arroyo Cabral, Ausonia, Ballesteros, Ballesteros Sud, Bengolea, Carrilobo, Chazón, Dalmacio Vélez Sarsfield, Etruria, Hernando, James Craik, La Laguna, La Palestina, La Playosa, Las Isletillas, Las Mojarras, Las Peñas Sud, Las Perdices, Los Zorros, Luca, Pascanas, Pasco, Pozo del Molle, Punta del Agua, Ramón J. Cárcano, Sanabria, Silvio Pellico, Ticino, Tío Pujio, Ucacha, Villa Albertina, Villa Nueva, Villa Oeste"
+    },
+    {
+        "codigo": "358",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Río Cuarto, Alcira Gigena, Alejandro Roca, Alpa Corral, Berrotarán, Carnerillo, Charras, Chucul, Coronel Baigorria, Elena, General Cabrera, General Deheza, La Carolina, La Gilda, Las Acequias, Las Albahacas, Las Caleras, Las Higueras, Las Vertientes, Olaeta, Paso Cabral, Paso del Durazno, Río de Los Sauces, Santa Catalina, Villa El Chacay, Villa Reducción, Villa Santa Eugenia"
+    },
+    {
+        "codigo": "362",
+        "jurisdiccion": "Chaco",
+        "localidades": "Resistencia, Barranqueras, Barrio San Pedro Pescador, Basail, Colonia Baranda, Colonia Benítez, Colonia Popular, Fontana, General Obligado, General Vedia, Isla del Cerrito, La Escondida, La Leonesa, La Verde, Laguna Blanca, Lapachito, Las Palmas, Makallé, Margarita Belén, Puerto Bermejo, Puerto Bermejo Viejo, Puerto Eva Perón, Puerto Tirol, Puerto Vilelas"
+    },
+    {
+        "codigo": "364",
+        "jurisdiccion": "Chaco",
+        "localidades": "Presidencia Roque Sáenz Peña, Avia Terai, Campo Largo, Colonia Aborigen Chaco, Concepción del Bermejo, Fortín Lavalle, Juan José Castelli, La Chiquita, La Tigra, Los Frentones, Miraflores, Napenay, Pampa del Infierno, Quitilipi, Río Muerto, Tres Isletas, Villa Río Bermejito, Villa Rural El Palmar, Zaparinqui"
+    },
+    {
+        "codigo": "370",
+        "jurisdiccion": "Formosa",
+        "localidades": "Formosa, Banco Payaguá, Colonia Pastoril, El Colorado, General Lucio V. Mansilla, Gran Guardia, Herradura, Mayor Vicente Villafañe, San Francisco de Laishi, San Hilario, Mariano Boedo, Mojón de Fierro, Palo Santo, Pirané, Subteniente Perín, Tatané, Villa del Carmen, Villa Dos Trece, Villa Escolar, Villa Trinidad"
+    },
+    {
+        "codigo": "376",
+        "jurisdiccion": "Misiones",
+        "localidades": "Posadas, Barrio del Lago, Barrio Eva Perón (Helvecia), Bonpland, Candelaria, Cerro Azul, Cerro Corá, Corpus, Domingo Savio, Fachinal, Garupá, General Urquiza, Gobernador Roca, Hipólito Yrigoyen, Loreto, Mártires, Nemesio Parma, Profundidad, Roca Chica, San Ignacio, Santa Ana, Santo Pipó"
+    },
+    {
+        "codigo": "379",
+        "jurisdiccion": "Corrientes",
+        "localidades": "Corrientes, Barrio Esperanza, El Sombrero, Empedrado, Herlitzka, Itatí, Laguna Brava, Paso de la Patria, Ramada Paso, Riachuelo, San Cayetano, San Cosme, San Luis del Palmar, Santa Ana de los Guácaras"
+    },
+    {
+        "codigo": "380",
+        "jurisdiccion": "La Rioja",
+        "localidades": "La Rioja, Amaná, Patquía, Punta de los Llanos, Tama, Villa Sanagasta"
+    },
+    {
+        "codigo": "381",
+        "jurisdiccion": "Tucumán",
+        "localidades": "San Miguel de Tucumán, Alderetes, Barrio Aeropuerto, Bella Vista, Cebil Redondo, Colombres, Delfín Gallo, El Bracho, El Cadillal, El Chañar, El Corte, El Manantial, El Paraíso, Estación Aráoz, Ingenio San Pablo, La Florida, La Ramada, Lastenia, Los Gutiérrez, Lules, Manuel García Fernández, Pacará, Quilmes y Los Sueldos, San Andrés, Tafí Viejo, Villa Fiad, Villa Nougués, Yerba Buena"
+    },
+    {
+        "codigo": "383",
+        "jurisdiccion": "Catamarca",
+        "localidades": "San Fernando del Valle de Catamarca, Adolfo E. Carranza, Alijilán, Amadores, Ancasti, Anquincila, Balde de la Punta, Bañado de Ovanta, Barrio Bancario, Capayán, Chuchucaruana, Chumbicha, Collagasta, Colonia del Valle, Colonia Nueva Coneta, Colpes, Concepción, Coneta, El Alto, El Bañado (Capayán), El Bañado (Valle Viejo), El Bolsón, El Hueco, El Pantanillo, El Portezuelo, El Rodeo, El Rosario, Guayamba, Huaycama (Ambato), Huaycama (Valle Viejo), Huillapima, Infanzón, La Bajada, La Candelaria, La Carrera, La Falda de San Antonio, La Higuera, La Majada, La Merced, La Puerta, La Tercena, La Viña, Las Cañas, Las Chacritas, Las Juntas, Las Lajas, Las Tejas, Lavalle (parte), Los Altos, Los Ángeles, Los Castillos, Los Corrales, Los Talas, Los Varela, Manantiales, Miraflores, Monte Potrero, Palo Labrado, Polcos, Pomancillo Este, Pomancillo Oeste, Pozo del Mistol, San Antonio (Fray Mamerto Esquiú), San Antonio (Paclín), San Isidro, San José, San Martín, San Pablo, San Pedro, San Pedro de Guasayán (parte), Santa Cruz, Santa Rosa, Singuil, Sumalao, Tapso (parte), Vilismán, Villa de Balcozna, Villa Dolores, Villa Las Pirquitas"
+    },
+    {
+        "codigo": "385",
+        "jurisdiccion": "Santiago del Estero",
+        "localidades": "Santiago del Estero, Antajé, Ardiles, Árraga, Beltrán, Cañada Escobar, Chaupi Pozo, Clodomira, Colonia El Simbolar, El Deán, El Mojón, El Puestito de San Antonio, El Zanjón, Estación Robles, Estación Simbolar, Estación Taboada, Fernández, Ingeniero Forres, La Aurora, La Banda, La Dársena (San Ramón), Los Cardozos, Los Morales, Los Núñez, Los Quiroga, Maco, Maquito, San Pedro, Santa María, Tramo 16, Villa Robles, Vilmer, Yanda"
+    },
+    {
+        "codigo": "387",
+        "jurisdiccion": "Salta",
+        "localidades": "Salta, Alemanía, Ampascachi, Cabra Corral, Campo Quijano, Campo Santo, Cerrillos, Chicoana, Cobos, Coronel Moldes, El Bordo, El Carril, General Güemes, Guachipas, Iruya, La Caldera, La Ciénaga, La Merced, La Silleta, La Viña, Las Costas, Olacapato, Rosario de Lerma, San Antonio de los Cobres, San Agustín, Santa Rosa de los Pastos Grandes, Talapampa, Tolar Grande, Vaqueros, Villa Los Álamos, Villa San Lorenzo"
+    },
+    {
+        "codigo": "388",
+        "jurisdiccion": "Jujuy",
+        "localidades": "San Salvador de Jujuy, Aguas Calientes, Alto Comedero, Barrio La Unión, Carahunco, Centro Forestal, Colonia San José, El Carmen, El Ceibal, El Cóndor, Guerrero, Huacalera, Juella, La Almona, La Ovejería, León, Los Alisos, Los Lapachos, Los Nogales, Maimará, Manantiales, Mina 9 de Octubre, Monterrico, Ocloyas, Palpalá, Pampa Blanca, Perico, Posta de Hornillos, Puesto Viejo, Purmamarca, Río Blanco, San Antonio, San Isidro, San Juancito, San Pablo de Reyes, Tilcara, Tumbaya, Volcán, Villa Palpalá, Yala"
+    },
+    {
+        "codigo": "2202",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "González Catán, Virrey del Pino"
+    },
+    {
+        "codigo": "2221",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Magdalena , Álvarez Jonte, Atalaya, Pipinas, Las Tahonas, Monte Veloz, Punta del Indio, Roberto J. Payró, Verónica, Vieytes"
+    },
+    {
+        "codigo": "2223",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Brandsen , Altamirano, Gómez, Jeppener, Las Acacias, Loma Verde"
+    },
+    {
+        "codigo": "2224",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Glew , Guernica"
+    },
+    {
+        "codigo": "2225",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Alejandro Korn, Domselaar, La Capilla, San Vicente"
+    },
+    {
+        "codigo": "2226",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Cañuelas, Alejandro Petión, El Taladro, Gobernador Udaondo, Santa Rosa, Uribelarrea, Vicente Casares"
+    },
+    {
+        "codigo": "2227",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Lobos , Navarro, Antonio Carboni, Carlos Beguerie, Elvira, Empalme Lobos, Roque Pérez, Salvador María, Zapiola"
+    },
+    {
+        "codigo": "2229",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Juan María Gutiérrez , El Pato, Ingeniero Juan Allan, Pereyra"
+    },
+    {
+        "codigo": "2241",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Chascomús, Alegre, Ranchos, Samborombón"
+    },
+    {
+        "codigo": "2242",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Lezama, Casalins, Pila"
+    },
+    {
+        "codigo": "2243",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "General Belgrano, Barrio Río Salado, Villanueva"
+    },
+    {
+        "codigo": "2244",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Las Flores, Coronel Boerr, El Trigo, Pardo"
+    },
+    {
+        "codigo": "2245",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Dolores, Castelli, Centro Guerrero, Cerro de la Gloria, General Conesa, Sevigne, Villa Roch"
+    },
+    {
+        "codigo": "2246",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Santa Teresita, Costa Chica, Costa del Este, Las Toninas, Mar del Tuyú"
+    },
+    {
+        "codigo": "2252",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "San Clemente del Tuyú, Chacras de San Clemente, General Lavalle"
+    },
+    {
+        "codigo": "2254",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Pinamar, Cariló, Ostende, Valeria del Mar"
+    },
+    {
+        "codigo": "2255",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Villa Gesell, Las Gaviotas, Mar Azul, Mar de las Pampas"
+    },
+    {
+        "codigo": "2257",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Mar de Ajó, Aguas Verdes, Costa Azul, Costa Esmeralda, La Lucila del Mar, Nueva Atlantis, Pavón, San Bernardo del Tuyú"
+    },
+    {
+        "codigo": "2261",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Lobería, Arenas Verdes, Licenciado Matienzo, Pieres, San Manuel, Tamangueyú"
+    },
+    {
+        "codigo": "2262",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Necochea, Balneario Costa Bonita, Balneario Los Ángeles, Energía, Quequén"
+    },
+    {
+        "codigo": "2264",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Nicanor Olivera (Est. La Dulce), Claraz, Juan Fernández, Ramón Santamarina"
+    },
+    {
+        "codigo": "2265",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Coronel Vidal, General Pirán, La Armonía, Mar Chiquita, Mar de Cobo, Vivoratá"
+    },
+    {
+        "codigo": "2266",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Balcarce, Los Pinos, Mechongué, Napaleofú, Ramos Otero, San Agustín, Villa Laguna La Brava"
+    },
+    {
+        "codigo": "2267",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "General Juan Madariaga"
+    },
+    {
+        "codigo": "2268",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Maipú, General Guido, Labardén, Las Armas, Santo Domingo"
+    },
+    {
+        "codigo": "2271",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "San Miguel del Monte, Abbott, Gorchs, Zenón Videla Dorna"
+    },
+    {
+        "codigo": "2272",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "José Juan Almeyra, Las Marianas, Villa Moll"
+    },
+    {
+        "codigo": "2273",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Carmen de Areco, Pueblo Gouin, Tres Sargentos"
+    },
+    {
+        "codigo": "2274",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Carlos Spegazzini, Máximo Paz"
+    },
+    {
+        "codigo": "2281",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Azul, Ariel, Cacharí, Chillar, Dieciséis de Julio"
+    },
+    {
+        "codigo": "2283",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Tapalqué, Crotto, Velloso"
+    },
+    {
+        "codigo": "2284",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Olavarría, Blanca Grande, Colonia Hinojo, Colonia Nievas, Colonia San Miguel, Espigas, Hinojo, Loma Negra, Recalde, Sierra Chica, Santa Luisa, Sierras Bayas, Villa La Serranía"
+    },
+    {
+        "codigo": "2285",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Laprida, Pueblo Nuevo, Pueblo San Jorge"
+    },
+    {
+        "codigo": "2286",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "General La Madrid, La Colina, Las Martinetas, Líbano"
+    },
+    {
+        "codigo": "2291",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Miramar, Centinela del Mar, Comandante Nicanor Otamendi, Mar del Sud"
+    },
+    {
+        "codigo": "2292",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Benito Juárez, Barker, Estación López, Tedín Uriburu, Villa Cacique"
+    },
+    {
+        "codigo": "2296",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Ayacucho, La Constancia, Solanet, Udaquiola"
+    },
+    {
+        "codigo": "2297",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Rauch, Egaña, Martín Colman, Miranda"
+    },
+    {
+        "codigo": "2302",
+        "jurisdiccion": "La Pampa /\nBuenos Aires",
+        "localidades": "General Pico, Agustoni, Alta Italia, Bernardo Larroudé, Ceballos, Coronel Hilario Lagos, Dorila, Intendente Alvear, González Moreno, Metileo, Speluzzi, Trebolares, Trenel, Vértiz"
+    },
+    {
+        "codigo": "2314",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "San Carlos de Bolívar, Coraceros, Hale, Henderson, Herrera Vegas, Juan F. Ibarra, María Lucila, Mariano Unzué, Paula, Pirovano, Urdampilleta, Villa Lynch Pueyrredón"
+    },
+    {
+        "codigo": "2316",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Daireaux, Andant, Arboledas, La Larga"
+    },
+    {
+        "codigo": "2317",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Nueve de Julio, Alfredo Demarchi, Carlos María Naón, Doce de Octubre, Dudignac, La Aurora, Manuel B. Gonnet, Marcelino Ugarte, Morea, Norumbega, Patricios, Santos Unzué, Villa General Fournier"
+    },
+    {
+        "codigo": "2320",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "José C. Paz, Grand Bourg, Tortuguitas"
+    },
+    {
+        "codigo": "2323",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Luján, Capilla del Señor, Carlos Keen, Cortines, El Remanso, José María Jáuregui, Lezica y Torrezuri, Olivera, Open Door, Parada Robles, Pavón, Torres, Villa Ruiz"
+    },
+    {
+        "codigo": "2324",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Mercedes, Agote, General Rivas, Goldney, Gowland, Suipacha, Tomás Jofré"
+    },
+    {
+        "codigo": "2325",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "San Andrés de Giles, Azcuénaga, Cucullú, Franklin, Villa Espil"
+    },
+    {
+        "codigo": "2326",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "San Antonio de Areco, Duggan, Solís, Vagués, Villa Lía"
+    },
+    {
+        "codigo": "2331",
+        "jurisdiccion": "La Pampa",
+        "localidades": "Realicó, Adolfo Van Praet, Falucho, Maisonave, Ojeda, Parera, Quetrequén, Rancul"
+    },
+    {
+        "codigo": "2333",
+        "jurisdiccion": "La Pampa",
+        "localidades": "Quemú Quemú, Colonia Barón, Colonia San José, Mauricio Mayer, Miguel Cané, Relmo, Villa Mirasol, Winifreda"
+    },
+    {
+        "codigo": "2334",
+        "jurisdiccion": "La Pampa",
+        "localidades": "Eduardo Castex, Conhelo, Monte Nievas, Rucanelo,"
+    },
+    {
+        "codigo": "2335",
+        "jurisdiccion": "La Pampa",
+        "localidades": "Caleufú, Arata, Embajador Martini, Ingeniero Luiggi, La Maruja, Pichi Huinca,"
+    },
+    {
+        "codigo": "2336",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Huinca Renancó, Pincén, Ranqueles, Villa Huidobro"
+    },
+    {
+        "codigo": "2337",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "América, Fortín Olavarría, Mira Pampa, Roosevelt, Sansinena, San Mauricio, Sundblad,"
+    },
+    {
+        "codigo": "2338",
+        "jurisdiccion": "La Pampa",
+        "localidades": "Victorica, Algarrobo del Águila, Carro Quemado, La Humada, Loventué, Luan Toro, Rucanelo, Santa Isabel, Telén,"
+    },
+    {
+        "codigo": "2342",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Bragado, Asamblea, Comodoro Py, Eduardo O'Brien, La Limpia, Máximo Fernández, Mechita, Warnes"
+    },
+    {
+        "codigo": "2343",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Norberto de La Riestra, Pedernales,"
+    },
+    {
+        "codigo": "2344",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Saladillo, Álvarez de Toledo, Cazón, Del Carril, Juan José Blaquier, General Alvear, Polvaredas,"
+    },
+    {
+        "codigo": "2345",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "25 de Mayo, Agustín Mosconi, Del Valle, Lucas Monteverde, San Enrique, Valdés"
+    },
+    {
+        "codigo": "2346",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Chivilcoy, Alberti, Benítez, Coronel Seguí, Emilio Ayarza, Gobernador Ugarte, Gorostiaga, Henry Bell, Indacochea, La Rica, Moquehuá, Palemon Huergo, Plá, Ramón Biaus, San Sebastián, Villa Grisolía, Villa María, Villa Ortiz"
+    },
+    {
+        "codigo": "2352",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Chacabuco, Castilla, Irala, Los Ángeles, O'Higgins, Olascoaga, Rawson"
+    },
+    {
+        "codigo": "2353",
+        "jurisdiccion": "Buenos Aires/\nSanta Fe",
+        "localidades": "General Arenales, Arribeños, Ascensión, Estación Arenales, Ferré, La Angelita, La Trinidad, Teodelina (parte)."
+    },
+    {
+        "codigo": "2354",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Vedia, Alberdi Viejo, Colonia San Ricardo, El Dorado, Fortín Acha, Juan Bautista Alberdi, Villa Roth"
+    },
+    {
+        "codigo": "2355",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Lincoln, Arenaza, Bayauca, Bermúdez, Coronel Martínez de Hoz, El Triunfo, Las Toscas, Pasteur, Roberts"
+    },
+    {
+        "codigo": "2356",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "General Pinto, Germania, Villa Francia"
+    },
+    {
+        "codigo": "2357",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Carlos Tejedor, Carlos Salas, Colonia Seré, Curarú"
+    },
+    {
+        "codigo": "2358",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Los Toldos, La Delfina, San Emilio, Zavalía"
+    },
+    {
+        "codigo": "2392",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Trenque Lauquen, Beruti, Bocayuva, De Bary, Girodias, La Carreta, Pellegrini, Treinta de Agosto"
+    },
+    {
+        "codigo": "2393",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Salazar"
+    },
+    {
+        "codigo": "2394",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Tres Lomas, Ingeniero Thompson, Quenumá, Salliqueló"
+    },
+    {
+        "codigo": "2395",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Carlos Casares, Bellocq, Cadret, Colonia Mauricio, Gobernador Arias, Hortensia, La Dorita, La Sofía, Mauricio Hirsch, Moctezuma, Ordoqui, Smith"
+    },
+    {
+        "codigo": "2396",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Pehuajó, Abel, Capitán Castro, Chiclana, Francisco Madero, Juan José Paso, Magdala, Mones Cazón, Nueva Plata, San Bernardo de Pehuajó"
+    },
+    {
+        "codigo": "2473",
+        "jurisdiccion": "Buenos Aires/\nSanta Fe",
+        "localidades": "Colón, El Arbolito, Hughes, Juncal, Sarasa, Santa Emilia (parte), Wheelwright"
+    },
+    {
+        "codigo": "2474",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Salto, Berdier, Gahan, Inés Indart, La Invencible"
+    },
+    {
+        "codigo": "2475",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Rojas, Las Carabelas, La Beba, Los Indios, Rafael Obligado, Roberto Cano, Sol de Mayo, Villa Manuel Pomar, Villa Parque Cecir"
+    },
+    {
+        "codigo": "2477",
+        "jurisdiccion": "Buenos Aires/\nSanta Fe",
+        "localidades": "Pergamino, Acevedo, Arroyo Dulce, Fontezuela, General Gelly, Guerrico, J. A. de la Peña, Juan Anchorena, Manuel Ocampo, Mariano Benítez, Mariano H. Alfonzo, Pearson, Pinzón, Rancagua, Villa Angélica, Villa San José"
+    },
+    {
+        "codigo": "2478",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Arrecifes, Capitán Sarmiento, La Luisa, Todd, Viña"
+    },
+    {
+        "codigo": "2622",
+        "jurisdiccion": "Mendoza",
+        "localidades": "Tunuyán, Barrio San Cayetano, Campo de los Andes, Colonia Las Rosas, Chilecito, Cordón del Plata, El Cepillo, El Peral, Eugenio Bustos, La Arboleda, La Consulta, Los Sauces, Pareditas, San José, Tupungato, Villa Bastías, Villa San Carlos, Vista Flores"
+    },
+    {
+        "codigo": "2624",
+        "jurisdiccion": "Mendoza",
+        "localidades": "Uspallata, El Carmelo, El Salto, Las Carditas, Las Cuevas, Las Vegas, Los Penitentes, Manantiales, Piedras Blancas, Polvaredas, Potrerillos, Puente del Inca, Punta de Vacas, Valle del Sol, Villa El Refugio"
+    },
+    {
+        "codigo": "2625",
+        "jurisdiccion": "Mendoza",
+        "localidades": "General Alvear, Barrio El Nevado, Bowen, Carmensa, Jaime Prats, Los Compartos, Punta del Agua, Real del Padre, Villa Atuel, Villa Atuel Norte"
+    },
+    {
+        "codigo": "2626",
+        "jurisdiccion": "Mendoza",
+        "localidades": "La Paz, Desaguadero (parte), Villa Antigua"
+    },
+    {
+        "codigo": "2646",
+        "jurisdiccion": "San Juan",
+        "localidades": "Villa San Agustín, Astica, Baldes del Rosario, Chucuma, Los Baldecitos, Usno"
+    },
+    {
+        "codigo": "2647",
+        "jurisdiccion": "San Juan",
+        "localidades": "San José de Jáchal, Angualasto, Bella Vista, Colola, El Médano, Gran China, Huaco, Iglesia, La Falda, Las Flores, Mogna, Niquivil, Pampa Vieja, Pismanta, Rodeo, San Isidro, Tamberías, Tudcum, Villa Malvinas Argentinas, Villa Mercedes"
+    },
+    {
+        "codigo": "2648",
+        "jurisdiccion": "San Juan",
+        "localidades": "Calingasta, Barreal, Tamberías, Villa Pituil"
+    },
+    {
+        "codigo": "2651",
+        "jurisdiccion": "San Luis",
+        "localidades": "San Francisco del Monte de Oro, Candelaria, Luján, Nogolí, Quines"
+    },
+    {
+        "codigo": "2652",
+        "jurisdiccion": "San Luis",
+        "localidades": "---, Balde, Beazley, Cazador, Chosmes, Jarilla, La Bajada, La Majada, Las Aguadas, Las Chacras, Las Lagunas, Leandro N. Alem, Mosmota, Río Juan Gómez, Potrero de los Funes (parte), Riocito, Salinas del Bebedero, San Martín, Talita, Villa General Roca"
+    },
+    {
+        "codigo": "2655",
+        "jurisdiccion": "San Luis",
+        "localidades": "La Toma, Juan Llerena, Las Vertientes, Paso Grande, Saladillo"
+    },
+    {
+        "codigo": "2656",
+        "jurisdiccion": "San Luis",
+        "localidades": "Tilisarao, Carpintería, Cerro de Oro, Concarán, Cortaderas, Lafinur, Los Cajones, Los Molles, Merlo, Naschel, Papagayos, Renca, San Pablo, Santa Rosa de Conlara, Villa de Praga, Villa del Carmen, Villa Larca"
+    },
+    {
+        "codigo": "2657",
+        "jurisdiccion": "San Luis",
+        "localidades": "Villa Mercedes, Fraga, Juan Jorba, Justo Daract, Lavaisse, San José del Morro, Villa Reynolds, Villa Salles"
+    },
+    {
+        "codigo": "2658",
+        "jurisdiccion": "San Luis",
+        "localidades": "Buena Esperanza, Anchorena, Arizona, Bagual, Batavia, Fortín El Patria, Fortuna, La Maroma, Martín de Loyola, Nahuel Mapá, Navia, Nueva Galia, Unión"
+    },
+    {
+        "codigo": "2901",
+        "jurisdiccion": "Tierra del Fuego",
+        "localidades": "Ushuaia, Lago Escondido, Tolhuin"
+    },
+    {
+        "codigo": "2902",
+        "jurisdiccion": "Santa Cruz",
+        "localidades": "Río Turbio, El Calafate, El Turbio, Esperanza, Julia Dufour, Mina 3, Rospentek Aike, Veintiocho de Noviembre"
+    },
+    {
+        "codigo": "2903",
+        "jurisdiccion": "Chubut",
+        "localidades": "Río Mayo, Aldea Beleiro, Doctor Ricardo Rojas, Facundo, Lago Blanco"
+    },
+    {
+        "codigo": "2920",
+        "jurisdiccion": "Río Negro/\nBuenos Aires",
+        "localidades": "Viedma, Bahía Creek, Bahía San Blas, Balneario El Cóndor, Cardenal Cagliero, Carmen de Patagones, El Juncal, Guardia Mitre, José B. Casas, La Lobería, Los Pocitos, Loteo Costa de Río, Pozo Salado, San Javier, Stroeder, Villa Balnearia 7 de Marzo"
+    },
+    {
+        "codigo": "2921",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Coronel Dorrego, Aparicio, Balneario Pehuen-Có, Balneario Sauce Grande, El Perdido, Faro, Irene, Monte Hermoso, San Román"
+    },
+    {
+        "codigo": "2922",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Coronel Pringles, El Divisorio, El Pensamiento, Frapal, Lartigau, Pontaut"
+    },
+    {
+        "codigo": "2923",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Pigüé, Arroyo Corto, Azopardo, Colonia San Martín, Dufaur, Espartillar, Estela, Goyena, Puan, Saavedra, San Germán, Villa Castelar"
+    },
+    {
+        "codigo": "2924",
+        "jurisdiccion": "Buenos Aires\nLa Pampa",
+        "localidades": "Darregueira, Bordenave, Guatraché, San Miguel Arcángel, Santa Teresa, Villa Durcudoy (17 de Agosto)"
+    },
+    {
+        "codigo": "2925",
+        "jurisdiccion": "Buenos Aires/\nLa Pampa",
+        "localidades": "Villa Iris, Abramo, Bernasconi, Felipe Solá, General San Martín, Hucal, Jacinto Aráuz, López Lecube, Perú"
+    },
+    {
+        "codigo": "2926",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Coronel Suárez, Cascada, Cura Malal, D'Orbigny, Pasman, San José, Santa María, Santa Trinidad"
+    },
+    {
+        "codigo": "2927",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Médanos, Argerich, Balneario Chapalcó, La Mascota, Nicolás Levalle"
+    },
+    {
+        "codigo": "2928",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Pedro Luro , Hilario Ascasubi, Juan A. Pradere, Villalonga"
+    },
+    {
+        "codigo": "2929",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Guaminí, Arroyo Venado, Casbas, Garré, Laguna Alsina"
+    },
+    {
+        "codigo": "2931",
+        "jurisdiccion": "Río Negro/\nLa Pampa",
+        "localidades": "Río Colorado, Anzoategui, Colonia Juliá y Echarren, General Conesa, La Adela"
+    },
+    {
+        "codigo": "2932",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Punta Alta, Bajo Hondo, Villa del Mar, Villa General Arias"
+    },
+    {
+        "codigo": "2933",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Huanguelén"
+    },
+    {
+        "codigo": "2934",
+        "jurisdiccion": "Río Negro",
+        "localidades": "San Antonio Oeste, Aguada Cecilio, Arroyo de La Ventana, Arroyo Los Berros, Cona Niyeu, Las Grutas, Ministro Ramos Mexía, Nahuel Niyeu, Playas Doradas, Punta Colorada, San Antonio Este, Sierra Colorada, Sierra Grande, Sierra Pailemán, Treneta, Valcheta, Yaminué"
+    },
+    {
+        "codigo": "2935",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Rivera, Villa Maza"
+    },
+    {
+        "codigo": "2936",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Carhué , Delfín Huergo, Esteban Agustín Gascón, La Pala, Thames, Yutuyaco"
+    },
+    {
+        "codigo": "2940",
+        "jurisdiccion": "Río Negro",
+        "localidades": "Ingeniero Jacobacci, Aguada de Guerra, Clemente Onelli, Colan Conhue, Comallo, Comicó, El Caín, Laguna Blanca, Las Bayas, Los Menucos, Maquinchao, Mina Santa Teresita, Ojos de Agua, Pilquiniyeu, Prahuaniyeu"
+    },
+    {
+        "codigo": "2942",
+        "jurisdiccion": "Neuquén /\nRío Negro",
+        "localidades": "Zapala, Aluminé, Arroyito, Bajada del Agrio, Covunco Abajo, La Buitrera, Las Coloradas, Las Lajas, Los Catutos, Mari Menuco, Mariano Moreno, Naupa Huen, Paso Aguerre, Picún Leufú, Piedra del Águila, Ramón M. Castro, Santo Tomás, Villa Pehuenia"
+    },
+    {
+        "codigo": "2945",
+        "jurisdiccion": "Chubut",
+        "localidades": "Esquel, Aldea Apeleg, Aldea Epulef, Alto Río Senguer, Buen Pasto, Buenos Aires Chico, Carrenleufú, Cholila, Colan Conhué, Corcovado, Cushamen, Doctor Atilio Oscar Viglione, El Maitén, Epuyén, Gobernador Costa, Gualjaina, José de San Martín, Lago Epuyén, Lago Rosario, Leleque, Los Cipreses, Paso del Sapo, Río Pico, Tecka, Trevelin, Villa Futalaufquen"
+    },
+    {
+        "codigo": "2946",
+        "jurisdiccion": "Río Negro",
+        "localidades": "Choele Choel, Barrio Unión, Chelforó, Chimpay, Coronel Belisle, Darwin, Lamarque, Luis Beltrán, Pomona"
+    },
+    {
+        "codigo": "2948",
+        "jurisdiccion": "Neuquén",
+        "localidades": "Chos Malal, Andacollo, Barrancas, Buta Ranquil, Caviahue, Chorriaca, Coyuco-Cochico, El Cholar, El Huecú, Huinganco, Las Ovejas, Loncopué, Los Miches, Manzano Amargo, Sauzal Bonito, Taquimilán, Termas de Copahue, Tricao Malal, Varvarco, Villa Curí Leuvú, Villa del Nahueve"
+    },
+    {
+        "codigo": "2952",
+        "jurisdiccion": "La Pampa",
+        "localidades": "General Acha, Chacharramendi, Colonia Santa María, Cuchillo-Có, Gobernador Duval, La Reforma, Limay Mahuida, Puelches, Quehué, Unanué"
+    },
+    {
+        "codigo": "2953",
+        "jurisdiccion": "La Pampa",
+        "localidades": "Macachín, Alpachiri, Doblas, General Manuel Campos, Miguel Riglos, Rolón, Tomás de Anchorena"
+    },
+    {
+        "codigo": "2954",
+        "jurisdiccion": "La Pampa",
+        "localidades": "Santa Rosa, Anguil, Ataliva Roca, Cachirulo, Catriló, Lonquimay, Naicó, Toay, Uriburu"
+    },
+    {
+        "codigo": "2962",
+        "jurisdiccion": "Santa Cruz",
+        "localidades": "Puerto San Julián, Comandante Luis Piedrabuena, El Chaltén, Gobernador Gregores, Puerto Santa Cruz, Tres Lagos"
+    },
+    {
+        "codigo": "2963",
+        "jurisdiccion": "Santa Cruz",
+        "localidades": "Perito Moreno, Bajo Caracoles, Lago Posadas, Los Antiguos"
+    },
+    {
+        "codigo": "2964",
+        "jurisdiccion": "Tierra del Fuego",
+        "localidades": "Río Grande"
+    },
+    {
+        "codigo": "2966",
+        "jurisdiccion": "Santa Cruz",
+        "localidades": "Río Gallegos"
+    },
+    {
+        "codigo": "2972",
+        "jurisdiccion": "Neuquén",
+        "localidades": "San Martín de los Andes, Junín de los Andes, Villa Meliquina"
+    },
+    {
+        "codigo": "2982",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Orense, Balneario Orense, Claromecó, San Francisco de Bellocq"
+    },
+    {
+        "codigo": "2983",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Tres Arroyos, Adolfo Gonzales Chaves, Balneario Marisol, Balneario San Cayetano, Barrow, Copetonas, De la Garma, Dunamar, Indio Rico, Juan Eulogio Barra, Lin Calel, Micaela Cascallares, Ochandío, Oriente, Reta, San Cayetano, San Mayol, Vásquez"
+    },
+    {
+        "codigo": "3327",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Benavídez, Ricardo Rojas"
+    },
+    {
+        "codigo": "3329",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "San Pedro, Baradero, Gobernador Castro, La Violeta, Obligado, Pérez Millán, Portela Pueblo Doyle, Río Tala, Santa Coloma, Santa Lucía, Villa Alsina"
+    },
+    {
+        "codigo": "3382",
+        "jurisdiccion": "Santa Fe /\nBuenos Aires/\nCórdoba",
+        "localidades": "Rufino, Aarón Castellanos, Amenábar, Cañada Seca, Christophersen, Diego de Alvear, La Cesira, Leguizamón, San Gregorio, Santa Regina, Villa Saboya"
+    },
+    {
+        "codigo": "3385",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Laboulaye, General Levalle, Jovita, Melo, Río Bamba, Rosales, San Joaquín, Serrano, Villa Rossi"
+    },
+    {
+        "codigo": "3387",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Buchardo, Italó, Onagoity"
+    },
+    {
+        "codigo": "3388",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "General Villegas, Ameghino, Banderaló, Blaquier, Coronel Charlone, Emilio V. Bunge, Massey, Pichincha, Piedritas, Porvenir, Santa Eleodora, Tres Algarrobos, Timote, Villa Sauze"
+    },
+    {
+        "codigo": "3400",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Villa Constitución, Barrio Arroyo del Medio, Barrio Mitre, Empalme Villa Constitución, Pavón, Rueda, Theobald"
+    },
+    {
+        "codigo": "3401",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "El Trébol, Cañada Rosquín, Carlos Pellegrini, Casas, Centeno, Las Bandurrias, Los Cardos, María Susana, Piamonte, San Genaro, San Genaro Norte,"
+    },
+    {
+        "codigo": "3402",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Arroyo Seco, Albarellos, Álvarez, Coronel Bogado, Coronel Rodolfo S. Domínguez, Fighiera, General Lagos, Los Muchachos - La Alborada, Monte Flores, Piñero, Pueblo Esther, Puerto Arroyo Seco, Villa Amelia"
+    },
+    {
+        "codigo": "3404",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "San Carlos Centro, Campo Piaggio, Colonia Belgrano, Gálvez, Gessler, Larrechea, Loma Alta, López, Pilar, Sa Pereira, San Carlos Norte, San Carlos Sud, San Eugenio, San Jerónimo del Sauce, San Jerónimo Norte, San Mariano, Santa Clara de Buena Vista, Santa María Centro, Santa María Norte, Wildermuth"
+    },
+    {
+        "codigo": "3405",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "San Javier, Alejandra, Cacique Ariacaiquín, Cayastá, Colonia Mascías, Helvecia, La Brava, Los Zapallos, Saladero Mariano Cabal"
+    },
+    {
+        "codigo": "3406",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "San Jorge, Castelar, Crispi, Garibaldi, Landeta, Las Petacas, María Juana, San Martín de las Escobas, Sastre y Ortiz, Traill"
+    },
+    {
+        "codigo": "3407",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Ramallo, El Paraíso, Las Bahamas, Villa General Savio, Villa Ramallo"
+    },
+    {
+        "codigo": "3408",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "San Cristóbal, Aguará Grande, Balneario La Verde, Colonia La Clara, Capivara, Huanqueros, La Cabral, La Lucila, Las Avispas, Ñanducita, Santurce"
+    },
+    {
+        "codigo": "3409",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Moisés Ville, Colonia Bossi, Constanza, Las Palmeras, Monigotes, Palacios"
+    },
+    {
+        "codigo": "3435",
+        "jurisdiccion": "Entre Ríos",
+        "localidades": "Nogoyá, Betbeder, Don Cristóbal Primero, Febre, Hernández, Lucas González, XX de Setiembre"
+    },
+    {
+        "codigo": "3436",
+        "jurisdiccion": "Entre Ríos",
+        "localidades": "Victoria, Antelo, Aranguren, Chilcas, Laguna del Pescado, Molino Doll, Rincón de Nogoyá"
+    },
+    {
+        "codigo": "3437",
+        "jurisdiccion": "Entre Ríos",
+        "localidades": "La Paz, San Gustavo, Santa Elena"
+    },
+    {
+        "codigo": "3438",
+        "jurisdiccion": "Entre Ríos",
+        "localidades": "Bovril, Colonia Avigdor, El Solar, Piedras Blancas, Sauce de Luna, Sir Leonard, Villa Alcaraz"
+    },
+    {
+        "codigo": "3442",
+        "jurisdiccion": "Entre Ríos",
+        "localidades": "Concepción del Uruguay, Caseros, Colonia Elía, Herrera, Pronunciamiento, Villa San Justo"
+    },
+    {
+        "codigo": "3444",
+        "jurisdiccion": "Entre Ríos",
+        "localidades": "Gualeguay, Aldea Asunción, Distrito Sexto Costa de Nogoyá, Enrique Carbó, Estación Lazo, General Galarza"
+    },
+    {
+        "codigo": "3445",
+        "jurisdiccion": "Entre Ríos",
+        "localidades": "Rosario del Tala, Altamirano Sur, Arroyo Clé, Basavilbaso, Estación Gobernador Echagüe, Estación Gobernador Sola, Estación Líbaros, Gobernador Mansilla, Guardamonte, Las Guachas, Las Moscas, Maciá, Rocamora, Santa Anita, Villa Mantero, Villa San Marcial"
+    },
+    {
+        "codigo": "3446",
+        "jurisdiccion": "Entre Ríos",
+        "localidades": "Gualeguaychú, Aldea San Antonio (Gualeguaychú), Aldea San Juan, Ceibas, Estación Escriña, Faustino M. Parera, General Almada, Gilbert, Irazusta, Larroque, Médanos, Ñancay, Pastor Britos, Pueblo General Belgrano, Puerto Ibicuy, Rincón del Cinto, Rincón del Gato, Urdinarrain, Villa Paranacito"
+    },
+    {
+        "codigo": "3447",
+        "jurisdiccion": "Entre Ríos",
+        "localidades": "Colón, Arroyo Barú, Colonia Hocker, Colonia San Anselmo y Aledañas, La Clarita, Primero de Mayo, Pueblo Cazes, Pueblo Liebig, San Ernesto, San José, Villa Elisa"
+    },
+    {
+        "codigo": "3454",
+        "jurisdiccion": "Entre Ríos",
+        "localidades": "Federal, Conscripto Bernardi, El Cimarrón, Nueva Vizcaya"
+    },
+    {
+        "codigo": "3455",
+        "jurisdiccion": "Entre Ríos",
+        "localidades": "Villaguay, Durazno, Estación Raíces, Ingeniero Sajaroff, Jubileo, Mojones Norte, Paso de la Laguna, Villa Clara, Villa Domínguez"
+    },
+    {
+        "codigo": "3456",
+        "jurisdiccion": "Entre Ríos",
+        "localidades": "Chajarí, Colonia Alemana, Colonia La Argentina, Colonia Peña, Colonia Santa María, Federación, La Florida, San Pedro, Santa Ana, Villa del Rosario"
+    },
+    {
+        "codigo": "3458",
+        "jurisdiccion": "Entre Ríos",
+        "localidades": "San José de Feliciano, Estación La Esmeralda, La Hierra, Los Conquistadores, San Jaime de la Frontera, San Víctor"
+    },
+    {
+        "codigo": "3460",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Santa Teresa , Cañada Rica, Cepeda, Godoy, Juan Bernabé Molina, La Vanguardia, Máximo Paz, Peyrano, Sargento Cabral, Stephenson"
+    },
+    {
+        "codigo": "3462",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Venado Tuerto, Carmen, Chapuy, Elortondo, La Chispa, Lazzarino, Maggiolo, María Teresa, Murphy, San Eduardo, San Francisco de Santa Fe, Sancti Spiritu, Santa Emilia (parte), Santa Isabel, Teodelina (parte), Villa Cañás"
+    },
+    {
+        "codigo": "3463",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Canals, Aldea Santa María, Gould, Colonia Bremen, Pueblo Italiano, San Severo, Viamonte"
+    },
+    {
+        "codigo": "3464",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Casilda, Arequito, Bigand, Chabás, Fuentes, Los Molinos, Pujato, Sanford, Villa Mugueta"
+    },
+    {
+        "codigo": "3465",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Firmat, Alcorta, Berabevú, Bombal, Cañada del Ucle, Carreras, Chovet, Gödeken, Labordeboy, Los Quirquinchos, Melincué, Miguel Torres, Paraje El Jardín, Villa Estela, Villada"
+    },
+    {
+        "codigo": "3466",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Barrancas, Arocena, Balneario Monje, Bernardo de Irigoyen, Casalegno, Díaz, Monje, Paraje Comipini, Pueblo Irigoyen, Puerto Aragón, San Fabián"
+    },
+    {
+        "codigo": "3467",
+        "jurisdiccion": "Córdoba/\nSanta Fe",
+        "localidades": "Cruz Alta, Arteaga, Colonia Veinticinco, Inriville, Los Nogales, Los Surgentes, Monte Buey, Saladillo, San José de la Esquina"
+    },
+    {
+        "codigo": "3468",
+        "jurisdiccion": "Córdoba/\nSanta Fe",
+        "localidades": "Corral de Bustos, Alejo Ledesma, Arias, Cafferata, Camilo Aldao, Chañar Ladeado, Colonia Barge, Capitán General Bernardo O'Higgins, Cavanagh, Colonia Bismarck, Colonia Italiana, General Baldissera, Guatimozín, Isla Verde, Monte Maíz, Wenceslao Escalante"
+    },
+    {
+        "codigo": "3469",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Acebal, Arminda, Carmen del Sauce, Cuatro Esquinas, Pavón Arriba, Pueblo Muñoz, Pueblo Uranga"
+    },
+    {
+        "codigo": "3471",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Cañada de Gómez, Armstrong, Berreta, Bouquet, Bustinza, Clason, Colonia Medici, Correa, Las Parejas, Las Rosas, Montes de Oca, Tortugas, Villa Eloísa"
+    },
+    {
+        "codigo": "3472",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Marcos Juárez, General Roca, Leones, Noetinger, Saira, Villa Elisa"
+    },
+    {
+        "codigo": "3476",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "San Lorenzo, Aldao, Cicarelli, Clarke, Larguía, Lucio V. López, Luis Palacios, Maciel Oliveros, Pueblo Andino, Puerto Gaboto, Puerto General San Martín, Ricardone, Salto Grande, Serodino, Timbúes, Totoras, Villa Elvira, Villa La Ribera"
+    },
+    {
+        "codigo": "3482",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Reconquista, Arroyo Ceibal, Avellaneda, Berna, Cañada Ombú, Colonia Durán, El Arazá, El Rabón, El Sombrerito, Florencia, Garabato, Guadalupe Norte, Ingeniero Chanourdie, Intiyaco, Kilómetro 115, La Isleta, La Sarita, Las Garzas, Las Toscas, Lanteri, Los Amores, Los Laureles, Los Tábanos, Malabrigo, Nicanor Molinas Paraje San Manuel, Pozo de los Indios, Romang, San Antonio de Obligado, Tacuarendí, Tartagal, Villa Ana, Villa Guillermina, Villa Ocampo"
+    },
+    {
+        "codigo": "3483",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Vera, Calchaquí, Colmena, Fortín Olmos, Golondrina, La Gallareta, Margarita, Pueblo Santa Lucía, Toba"
+    },
+    {
+        "codigo": "3487",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Zárate, Barrio Saavedra, Escalada, Gobernador Andonaegui, Lima"
+    },
+    {
+        "codigo": "3489",
+        "jurisdiccion": "Buenos Aires",
+        "localidades": "Campana, Alto Los Cardales, Barrio Los Pioneros, Ingeniero Rómulo Otamendi, Lomas del Río Luján"
+    },
+    {
+        "codigo": "3491",
+        "jurisdiccion": "Santa Fe/\nSantiago del Estero",
+        "localidades": "Ceres, Ambrosetti, Arrufó, Colonia Alpina, Colonia Ana, Curupaity, Esteban Rams, Gato Colorado, Gregoria Pérez de Denis, Hersilia, La Rubia, Logroño, Montefiore, Pozo Borrado, San Bernardo, Santa Margarita, Tostado, Villa Minetti, Villa Trinidad"
+    },
+    {
+        "codigo": "3492",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Rafaela, Angélica, Aurelia, Bauer y Sigel, Bella Italia, Castellanos, Colonia Cello, Colonia Margarita, Coronel Fraga, Egusquiza, Esmeralda, Estación Clucellas, Eustolia, Josefina, Lehmann, Nueva Lehmann, Plaza Clucellas, Plaza Saguier, Presidente Roca, Pueblo Marini, Ramona, San Antonio, San Vicente, Santa Clara de Saguier, Susana, Vila, Villa San José"
+    },
+    {
+        "codigo": "3493",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Sunchales, Aldao, Ataliva, Colonia Bicha, Colonia Raquel, Colonia Tacurales, Eusebia y Carolina, Galisteo, Humberto Primo, Tacural, Virginia"
+    },
+    {
+        "codigo": "3496",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Esperanza, Colonia Cavour, Felicia, Grutly, Humboldt, Ituzaingó, Nuevo Torino, Pujato Norte, Rivadavia"
+    },
+    {
+        "codigo": "3497",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "Llambi Campbell, Cululú, Emilia, Hipatía, Jacinto L. Aráuz, La Pelada, María Luisa, Progreso, Providencia, Santo Domingo, Sarmiento"
+    },
+    {
+        "codigo": "3498",
+        "jurisdiccion": "Santa Fe",
+        "localidades": "San Justo, Angeloni, Cayastacito, Colonia Esther, Colonia Dolores, Colonia Silva, Elisa, Gobernador Crespo, La Camila, La Criolla, La Penca y Caraguatá, Marcelino Escalada, Naré, Pedro Gómez Cello, Ramayón, San Bernardo (San Justo), San Martín Norte, Soledad, Vera y Pintado, Videla, Villa Saralegui"
+    },
+    {
+        "codigo": "3521",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Deán Funes , Caminiaga, Chuña, Copacabana, El Tuscal, Los Pozos, Lucio V. Mansilla, Quilino, San José de La Dormida, San José de Las Salinas, San Pedro de Toyos, San Pedro Norte, Villa Quilino, Villa Tulumba"
+    },
+    {
+        "codigo": "3522",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Villa de María, Cerro Colorado, Chañar Viejo, Chuña Huasi, Churqui Cañada, El Rodeo, Eufrasio Loza, Gutemberg, La Rinconada, Las Arrias, Los Hoyos, Pozo Nuevo, Puesto de Castro, Rayo Cortado, Rosario del Saladillo, San Francisco del Chañar, Santa Elena, Sebastian Elcano, Villa Candelaria Norte"
+    },
+    {
+        "codigo": "3524",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Villa del Totoral, Avellaneda, Capilla de Sitón, Las Peñas, Simbolar, Villa Gutiérrez"
+    },
+    {
+        "codigo": "3525",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Jesús María, Agua de Oro, Ascochinga, Candelaria Sud, Canteras El Sauce, Cañada de Luque, Cañada de Río Pinto, Colonia Caroya, Colonia Vicente Agüero, El Manzano, Estación General Paz, La Granja, La Pampa, La Paz, Los Mistoles, Los Molles, La Puerta, Santa Catalina, Sarmiento, Sinsacate, Tinoco, Villa Cerro Azul"
+    },
+    {
+        "codigo": "3532",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Oliva, Calchín Oeste, Colazo, Colonia Almada, Colonia Videla, Las Junturas, Pampayasta Norte, Pampayasta Sud"
+    },
+    {
+        "codigo": "3533",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Las Varillas, Alicia, El Arañado, El Fortín, Las Varas, Sacanta, Saturnino María Laspiur, Villa San Esteban"
+    },
+    {
+        "codigo": "3537",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Bell Ville, Alto Alegre, Chilibroste, Cintra, Idiazábal, Justiniano Posse, Laborde, Monte Leña, Morrison, Ordóñez, San Antonio de Litín, San Marcos Sud, Villa Los Patos"
+    },
+    {
+        "codigo": "3541",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Villa Carlos Paz, Bialet Massé, Cabalango, Cosquín, Cuesta Blanca, Estancia Vieja, Las Jarillas, Mallín, Mayu Sumaj, San Antonio de Arredondo, San José de los Ríos, San Nicolás, San Roque, Santa María de Punilla, Tala Huasi, Tanti, Villa Flor Serrana, Villa Icho Cruz, Villa Independencia, Villa Lago Azul, Villa Parque Siquiman, Villa Santa Cruz del Lago"
+    },
+    {
+        "codigo": "3542",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Salsacate, Ámbul, Chancaní, Ciénaga del Coro, Estancia de Guadalupe, Guasapampa, La Higuera, La Playa, Las Palmas, Los Talares, Mussi, San Carlos Minas, San Gerónimo, Tala Cañada, Talaini, Taninga, Tosno, Villa de Pocho"
+    },
+    {
+        "codigo": "3543",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Córdoba (Argüello), Casa Bamba, El Diquecito, La Calera, Mendiolaza, Pajas Blancas, Río Ceballos, Saldán, Salsipuedes, Unquillo, Villa Allende"
+    },
+    {
+        "codigo": "3544",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Villa Dolores, Arroyo de Los Patos, Conlara, Cruz Caña, Dos Arroyos, El Huayco, El Pantanillo, La Paz, La Población, La Ramada, La Travesía, Las Calles, Las Rabonas, Las Tapias, Los Callejones, Los Cerrillos, Los Hornillos, Los Molles, Los Romeros, Luyaba, Mina Clavero, Nono, Panaholma, Quebrada de los Pozos, San Huberto, San Javier/Yacanto, San José, San Lorenzo, San Martín, San Pedro, San Vicente, Sauce Arriba, Villa Cura Brochero, Villa de Las Rosas, Villa La Viña, Villa Sarmiento"
+    },
+    {
+        "codigo": "3546",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Santa Rosa de Calamuchita, Amboy, Arroyo San Antonio, Cañada del Sauce, Capilla Vieja, El Corcovado - El Torreón, El Durazno, La Cruz, La Cumbrecita, Los Reartes, Lutti, Parque Calmayo, San Ignacio, Villa Alpina, Villa Amancay, Villa Berna, Villa Ciudad Parque Los Reartes, Villa del Dique, Villa General Belgrano, Villa La Rivera, Villa Rumipal, Villa Quillinzo, Villa Yacanto"
+    },
+    {
+        "codigo": "3547",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Alta Gracia, Anisacate, Costa Azul, Despeñaderos, Dique Chico, Falda del Cañete, Falda del Carmen José de la Quintana, La Boca del Río, La Paisanita, La Rancherita, La Serranita, Las Quintas, Los Cedros, Los Molinos, Monte Ralo, Potrero de Garay, Rafael García, San Agustín, San Clemente, Solar de los Molinos, Valle Alegre, Valle de Anisacate, Villa Ciudad de América, Villa del Prado, Villa La Bolsa, Villa Los Aromos, Villa Parque Santa Ana, Villa San Isidro, Villa San Miguel"
+    },
+    {
+        "codigo": "3548",
+        "jurisdiccion": "Córdoba",
+        "localidades": "La Falda, Capilla del Monte, Casa Grande, Charbonier, Cruz Chica, Cruz Grande, Dolores, Huerta Grande, La Cumbre, Las Cañadas, Los Cocos, Quebrada de Luna, San Esteban, Valle Hermoso, Villa Giardino"
+    },
+    {
+        "codigo": "3549",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Cruz del Eje, Alto de los Quebrachos, Bañado de Soto, Canteras Quilpo, Cruz de Caña, El Brete, El Chacho, El Rincón, Guanaco Muerto, La Banda, La Batea, Las Playas, Los Chañaritos, Media Naranja, Olivares de San Nicolás, Paso Viejo, San Marcos Sierras, Serrezuela, Tuclame, Villa de Soto"
+    },
+    {
+        "codigo": "3562",
+        "jurisdiccion": "Córdoba/\nSanta Fe",
+        "localidades": "Morteros, Altos de Chipión, Brinkmann, Colonia Diez de Julio, Colonia Dos Rosas y La Legua, Colonia Rosa, Colonia San Pedro, Colonia Valtelina, La Paquita, Monte Oscuridad, San Guillermo, Suardi"
+    },
+    {
+        "codigo": "3563",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Balnearia, Marull, Miramar, Trinchera"
+    },
+    {
+        "codigo": "3564",
+        "jurisdiccion": "Córdoba/\nSanta Fe",
+        "localidades": "San Francisco, Barrios Acapulco y Veracruz, Colonia Anita, Colonia Iturraspe, Colonia Marina, Colonia Prosperidad, Colonia San Bartolomé, Colonia Santa María, Colonia Vignaud, Devoto, Estación Luxardo, Freyre, Frontera, La Francia, Plaza Luxardo, Plaza San Francisco, Porteña, Quebracho Herrado, Seeber, Villa Josefina, Zenón Pereyra"
+    },
+    {
+        "codigo": "3571",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Río Tercero, Almafuerte, Corralito, Embalse, General Fotheringham, Las Bajadas, Los Cóndores, Segunda Usina, Tancacha, Villa Ascasubi"
+    },
+    {
+        "codigo": "3572",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Río Segundo, Costa Sacate, Impira, Laguna Larga, Lozada, Manfredi, Oncativo, Pilar"
+    },
+    {
+        "codigo": "3573",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Villa del Rosario, Calchín, Capilla del Carmen, Luque, Matorrales, Rincón"
+    },
+    {
+        "codigo": "3574",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Río Primero, Cañada de Machado, Capilla de los Remedios, Colonia Las Cuatro Esquinas, Comechingones, El Alcalde, El Crispín, Esquina, Kilómetro 658, Monte del Rosario, Piquillín, Sagrada Familia, Santa Rosa de Río Primero, Santiago Temple"
+    },
+    {
+        "codigo": "3575",
+        "jurisdiccion": "Córdoba",
+        "localidades": "La Puerta, Atahona, Chalacea, Diego de Rojas, La Para, La Posta, La Quinta, Las Saladas, Maquinista Gallini, Obispo Trejo, Plaza de Mercedes, Villa Fontana"
+    },
+    {
+        "codigo": "3576",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Arroyito, Colonia Las Pichanas, Los Chañaritos, El Fuertecito, El Tío, La Tordilla, Las Gramillas, Tránsito, Toro Pujio, Villa Concepción del Tío, Villa del Tránsito, Villa Vaudagna"
+    },
+    {
+        "codigo": "3582",
+        "jurisdiccion": "Córdoba/\nSan Luis",
+        "localidades": "Sampacho, Achiras, Bulnes, Chaján, Coronel Moldes, La Punilla, Malena, Suco"
+    },
+    {
+        "codigo": "3583",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Vicuña Mackenna, Del Campillo, La Cautiva, Mattaldi, Nicolás Bruzzone, Tosquita, Villa Sarmiento, Villa Valeria, Washington"
+    },
+    {
+        "codigo": "3584",
+        "jurisdiccion": "Córdoba",
+        "localidades": "La Carlota, Assunta, El Rastreador, Huanchillas, Los Cisnes, Pacheco de Melo, Santa Eufemia"
+    },
+    {
+        "codigo": "3585",
+        "jurisdiccion": "Córdoba",
+        "localidades": "Adelia María, Monte de Los Gauchos, San Basilio"
+    },
+    {
+        "codigo": "3711",
+        "jurisdiccion": "Formosa",
+        "localidades": "Ingeniero Juárez, El Potrillo, General Mosconi, Laguna Yema, Los Chiriguanos, Pozo de Maza, Pozo del Mortero"
+    },
+    {
+        "codigo": "3715",
+        "jurisdiccion": "Formosa/\nChaco",
+        "localidades": "Las Lomitas, El Espinillo, El Sauzal, El Sauzalito, Fuerte Esperanza, Misión Nueva Pompeya, Pozo del Tigre, Wichí - El Pintado"
+    },
+    {
+        "codigo": "3716",
+        "jurisdiccion": "Formosa",
+        "localidades": "Comandante Fontana, Bartolomé de las Casas, Colonia Sarmiento, El Recreo, Estanislao del Campo, Fortín Leyes, Fortín Lugones, General Manuel Belgrano, Ibarreta, Juan G. Bazán, Posta Cambio Zalazar, San Martín 1, San Martín 2, Villa General Güemes"
+    },
+    {
+        "codigo": "3718",
+        "jurisdiccion": "Formosa",
+        "localidades": "Clorinda, Buena Vista, El Espinillo, Laguna Blanca, Laguna Naick Neck, Misión Tacaaglé, Palma Sola, Portón Negro, Puerto Pilcomayo, Riacho He-Hé, Riacho Negro, Siete Palmas, Tres Lagunas"
+    },
+    {
+        "codigo": "3721",
+        "jurisdiccion": "Chaco",
+        "localidades": "Charadai, Cote Lai, La Sabana"
+    },
+    {
+        "codigo": "3725",
+        "jurisdiccion": "Chaco",
+        "localidades": "General José de San Martín, Capitán Solari, Ciervo Petiso, Colonias Unidas, La Eduvigis, Laguna Limpia, Las Garcitas, Pampa Almirón, Pampa del Indio, Presidencia Roca, Selvas del Río de Oro"
+    },
+    {
+        "codigo": "3731",
+        "jurisdiccion": "Chaco",
+        "localidades": "Charata , Corzuela, Fortín Las Chuñas, Gancedo, General Capdevila, General Pinedo, Las Breñas, Mesón de Fierro, Pampa Landriel"
+    },
+    {
+        "codigo": "3734",
+        "jurisdiccion": "Chaco",
+        "localidades": "Presidencia de la Plaza, Colonia Elisa, Ingeniero Barbet, Machagai, Napalpí"
+    },
+    {
+        "codigo": "3735",
+        "jurisdiccion": "Chaco",
+        "localidades": "Villa Ángela, Chorotis, Coronel Du Graty, Enrique Urién, Hermoso Campo, Itín, La Clotilde, Pueblo Clodomiro Díaz, Samuhú, San Bernardo, Santa Sylvina, Venados Grandes, Villa Berthet"
+    },
+    {
+        "codigo": "3741",
+        "jurisdiccion": "Misiones",
+        "localidades": "Bernardo de Irigoyen, Dos Hermanas, San Antonio"
+    },
+    {
+        "codigo": "3743",
+        "jurisdiccion": "Misiones",
+        "localidades": "Puerto Rico, Capioví, Colonia Polana, Garuhapé, Garuhapé-Mi, Jardín América, Mbopicuá, Oasis, Puerto Leoni, Puerto Mineral, Ruiz de Montoya, San Alberto, San Gotardo, San Ignacio, Villa Akerman"
+    },
+    {
+        "codigo": "3751",
+        "jurisdiccion": "Misiones",
+        "localidades": "Eldorado, Caraguatay, Colonia Delicia, Colonia Victoria, Cruce Caballero, El Alcázar, Fracrán, Laharrague, Montecarlo, Nueve de Julio, Nueve de Julio Kilómetro 20, El Alcázar, Piñalito Sur, Piray Kilómetro 18, Puerto Mado, Puerto Pinares, Puerto Piray, San Pedro, Santiago de Liniers, Tarumá, Tobuna, Valle Hermoso, Villa Parodi, Villa Roulet"
+    },
+    {
+        "codigo": "3754",
+        "jurisdiccion": "Misiones",
+        "localidades": "Leandro N. Alem, Arroyo del Medio, Dos Arroyos, Gobernador López, Itacaruaré, Mojón Grande, Olegario Víctor Andrade, Panambí, Panambí Kilómetro 8, San Javier"
+    },
+    {
+        "codigo": "3755",
+        "jurisdiccion": "Misiones",
+        "localidades": "Oberá, Alba Posse, Almafuerte, Aristóbulo del Valle, Barrio Bernardino Rivadavia, Caá Yarí, Camión Cue, Campo Grande, Campo Ramón, Campo Viera, Colonia Alberdi, Colonia Alicia, Colonia Aurora, Dos de Mayo, El Soberbio, El Salto Florentino Ameghino, General Alvear, Guaraní, Los Helechos, Kilómetro 17, Pueblo Illia, San Francisco de Asís, San Martín, San Vicente, Santa Rita, Torta Quemada, 25 de Mayo, Villa Bonita, Villa Salto Encantado"
+    },
+    {
+        "codigo": "3756",
+        "jurisdiccion": "Corrientes",
+        "localidades": "Santo Tomé, Garabí, Garruchos, Gobernador Virasoro"
+    },
+    {
+        "codigo": "3757",
+        "jurisdiccion": "Misiones",
+        "localidades": "Puerto Iguazú, Colonia Helvecia, Comandante Andresito, Gobernador Lanusse, Integración, Puerto Esperanza, Puerto Libertad, Wanda"
+    },
+    {
+        "codigo": "3758",
+        "jurisdiccion": "Misiones /\nCorrientes",
+        "localidades": "Apóstoles, Azara, Barra Concepción, Barrio Rural, Colonia Liebig, Concepción de la Sierra, La Corita, Pindapoy, Puerto Azara, San Carlos, San José, Santa María, Tres Capones"
+    },
+    {
+        "codigo": "3772",
+        "jurisdiccion": "Corrientes",
+        "localidades": "Paso de los Libres, Alvear, Bonpland, Estación Torrent, Guaviraví, La Cruz, Parada Pucheta, Tapebicuá, Yapeyú"
+    },
+    {
+        "codigo": "3773",
+        "jurisdiccion": "Corrientes",
+        "localidades": "Mercedes, Chavarría, Colonia Carlos Pellegrini, Felipe Yofre, Mariano I. Loza, Perugorría"
+    },
+    {
+        "codigo": "3774",
+        "jurisdiccion": "Corrientes",
+        "localidades": "Curuzú Cuatiá, Cazadores Correntinos, Sauce"
+    },
+    {
+        "codigo": "3775",
+        "jurisdiccion": "Corrientes",
+        "localidades": "Monte Caseros, Colonia Libertad, Estación Libertad, Juan Pujol, Labougle, Mocoretá, Parada Acuña"
+    },
+    {
+        "codigo": "3777",
+        "jurisdiccion": "Corrientes",
+        "localidades": "Goya, Bella Vista, Colonia Carolina, Colonia Pando, Cruz de los Milagros, Esquina, Gobernador Juan E. Martínez, Lavalle, Nueve de Julio, Pedro R. Fernández, Pueblo Libertador, San Isidro, San Roque, Santa Lucía, Tres de Abril, Villa Córdoba, Yatay Tí Calle"
+    },
+    {
+        "codigo": "3781",
+        "jurisdiccion": "Corrientes",
+        "localidades": "Caá Catí, Berón de Astrada, Itá Ibaté, Lomas de Vallejos, Loreto, Palmar Grande, San Miguel, Tacuaral, Yahapé"
+    },
+    {
+        "codigo": "3782",
+        "jurisdiccion": "Corrientes",
+        "localidades": "Saladas, Colonia Santa Rosa, Concepción, Mburucuyá, Pago de los Deseos, San Lorenzo, Tabay, Tatacuá"
+    },
+    {
+        "codigo": "3786",
+        "jurisdiccion": "Corrientes",
+        "localidades": "Ituzaingó, San Antonio, Villa Olivari"
+    },
+    {
+        "codigo": "3821",
+        "jurisdiccion": "La Rioja",
+        "localidades": "Chepes, Desiderio Tello, Ulapes"
+    },
+    {
+        "codigo": "3825",
+        "jurisdiccion": "La Rioja",
+        "localidades": "Chilecito, Aicuña, Alto Carrizal, Anguinán, Angulos, Antinaco, Bajo Carrizal, Banda Florida, Campanas, Chañarmuyo, Colonia Anguinán, Colonia Catinzaco, Colonia Malligasta, Colonia Vichigasta, Famatina, Guanchín, Guandacol, Jagüé, La Cuadra, La Puntilla, Los Palacios, Los Sarmientos, Malligasta, Miranda, Nonogasta, Pagancillo, Pituil, Plaza Vieja, Punta de Agua, San Miguel, San Nicolás, Santa Clara, Santa Cruz, Santa Florentina, Santo Domingo, Sañogasta, Tilimuqui, Vichigasta, Villa Castelli, Villa San José de Vinchina, Villa Unión"
+    },
+    {
+        "codigo": "3826",
+        "jurisdiccion": "La Rioja",
+        "localidades": "Chamical, Ambil, Castro Barros, Chañar, Colonia Ortiz de Ocampo, Loma Blanca, Malanzán, Milagro, Nácate, Olpas, Olta, Polco, Portezuelo, San Antonio, Villa Santa Rita de Catuna"
+    },
+    {
+        "codigo": "3827",
+        "jurisdiccion": "La Rioja",
+        "localidades": "Aimogasta, Agua Blanca, Alpasinche, Aminga, Amuschinas, Andolucas, Anillaco, Anjullón, Arauco, Bañado de los Pantanos, Chaupihuasi, Chuquis, Cuipán, Estación Mazán, Las Talas, Los Molinos, Los Robles, Machigasta, Pinchas, Salicas, San Antonio, San Blas, San Pedro, Santa Vera Cruz, Shaqui, Suriyaco, Termas de Santa Teresita, Tuyubil, Villa Mazán"
+    },
+    {
+        "codigo": "3832",
+        "jurisdiccion": "Catamarca/\nSantiago del Estero",
+        "localidades": "Recreo, Casa de Piedra, El Aybal, El Bañado, El Divisadero, El Quimilo, Esquiú, Icaño, La Dorada, Las Esquinas, La Guardia, Las Palmitas, Quirós, Ramblones, San Antonio de La Paz"
+    },
+    {
+        "codigo": "3835",
+        "jurisdiccion": "Catamarca",
+        "localidades": "Andalgalá, Aconquija, Alto de las Juntas, Amanao, Antofagasta de la Sierra, Antofalla, Apoyaco, Barranca Larga, Belén, Buena Vista, Chaquiago, Choya, Colana, Colpes (Pomán), Cóndor Huasi, Corral Quemado, El Alamito, El Durazno, El Lindero, El Pajonal, El Peñón, El Potrero, Farallón Negro, Hualfín, Jacipunco, Joyango, La Aguada, La Puntilla, Las Juntas, Londres, Los Nacimientos (Antofagasta de la Sierra), Los Nacimientos (Belén), Mutquín, Pozo de la Piedra, Puerta de Corral Quemado, Puerta de San José, Rincón, San Miguel, Saujil, Siján, Villa de Pomán, Villa Vil"
+    },
+    {
+        "codigo": "3837",
+        "jurisdiccion": "Catamarca",
+        "localidades": "Tinogasta , Anillaco, Antinaco, Banda de Lucero, Cerro Negro, Copacabana, Cordobita, Costa de Reyes, El Pueblito, El Puesto (Tinogasta), El Salado, Fiambalá, La Puntilla (Tinogasta), La Ramadita, Los Balverdi, Medanitos, Palo Blanco, Pampa Blanca, Punta del Agua, Santa Rosa, Saujil (Tinogasta), Tatón"
+    },
+    {
+        "codigo": "3838",
+        "jurisdiccion": "Catamarca",
+        "localidades": "Santa María, Andalhualá, Casa de Piedra, Caspichango, Chañar Punco, El Cajón, El Cerrito, El Desmonte, El Puesto, Famatanca, Fuerte Quemado, La Hoyada, La Loma, La Puntilla, Lampacito, Las Mojarras, Loro Huasi, Medanitos, Ovejería, Palo Seco, Punta de Balasto, San José, San José Banda, San José Norte, San José Villa, Yapes"
+    },
+    {
+        "codigo": "3841",
+        "jurisdiccion": "Santiago del Estero",
+        "localidades": "Monte Quemado, Coronel Rico, Los Pirpintos, Pampa de los Guanacos, Sacháyoj"
+    },
+    {
+        "codigo": "3843",
+        "jurisdiccion": "Santiago del Estero",
+        "localidades": "Quimilí, Las Tinajas, Roversi, Weisburd"
+    },
+    {
+        "codigo": "3844",
+        "jurisdiccion": "Santiago del Estero",
+        "localidades": "Añatuya, Averías, Colonia Dora, Estación Tacañitas, Garza, Herrera, Icaño, Lugones, Real Sayana, Tomás Young, Villa Salavina"
+    },
+    {
+        "codigo": "3845",
+        "jurisdiccion": "Santiago del Estero",
+        "localidades": "Loreto, Brea Pozo, Estación Atamisqui, Medellín, Nueva Francia, Sumamao, Villa Atamisqui, Villa Silípica"
+    },
+    {
+        "codigo": "3846",
+        "jurisdiccion": "Santiago del Estero",
+        "localidades": "Tintina, Campo Gallo, Hasse, Hernán Mejía Miraval, Libertad, Lilo Viejo, Patay"
+    },
+    {
+        "codigo": "3854",
+        "jurisdiccion": "Santiago del Estero",
+        "localidades": "Frías, Ancaján, Choya, Estación La Punta, Laprida, Lavalle (parte), San Pedro de Choya, San Pedro de Guasayán (parte), Tapso (parte), Villa La Punta"
+    },
+    {
+        "codigo": "3855",
+        "jurisdiccion": "Santiago del Estero",
+        "localidades": "Suncho Corral, Bandera Bajada, El Cuadrado, La Cañada, Matará, Vilelas"
+    },
+    {
+        "codigo": "3856",
+        "jurisdiccion": "Santiago del Estero",
+        "localidades": "Villa Ojo de Agua, Chilca Juliana, Los Telares, Ramírez de Velazco, Sol de Julio, Sumampa, Sumampa Viejo"
+    },
+    {
+        "codigo": "3857",
+        "jurisdiccion": "Santiago del Estero",
+        "localidades": "Bandera, Fortín Inca, Guardia Escolta, Los Juríes, Malbrán, Palo Negro, Pinto, Selva"
+    },
+    {
+        "codigo": "3858",
+        "jurisdiccion": "Santiago del Estero",
+        "localidades": "Termas de Río Hondo, Chauchillas, Colonia Tinco, El Charco, Gramilla, Pozo Hondo, Pozuelos, Villa Río Hondo, Vinará"
+    },
+    {
+        "codigo": "3861",
+        "jurisdiccion": "Santiago del Estero",
+        "localidades": "Nueva Esperanza, El Mojón, Las Delicias, Pozo Betbeder, Rapelli"
+    },
+    {
+        "codigo": "3862",
+        "jurisdiccion": "Tucumán",
+        "localidades": "Trancas, Choromoro, San Pedro de Colalao"
+    },
+    {
+        "codigo": "3863",
+        "jurisdiccion": "Tucumán",
+        "localidades": "Monteros, Acheral, Atahona, Barrio Casa Rosada, Campo de Herrera, Capitán Cáceres, Famaillá, Ingenio Fronterita, LA Reducción, Los Puestos, Monteagudo, Nueva Baviera, Río Colorado, Río Seco, Santa Lucía, Santa Rosa de Leales, Santa Rosa y Los Rojo, Sargento Moya, Simoca, Soldado Maldonado, Teniente Berdina, Villa Chicligasta, Villa de Leales, Villa Quinteros, Yerba Buena (Simoca)"
+    },
+    {
+        "codigo": "3865",
+        "jurisdiccion": "Tucumán",
+        "localidades": "Concepción, Aguilares, Alpachiri, Alto Verde, Arcadia, Ingenio La Trinidad, Juan Bautista Alberdi, La Cocha, Los Sarmientos, Medinas, Rumi Punco, San José de la Cocha, Santa Ana, Villa Belgrano"
+    },
+    {
+        "codigo": "3867",
+        "jurisdiccion": "Tucumán",
+        "localidades": "Tafí del Valle, El Mollar"
+    },
+    {
+        "codigo": "3868",
+        "jurisdiccion": "Salta",
+        "localidades": "Cafayate, Angastaco, Animaná, Cachi, Cobres, El Barrial, La Poma, La Puerta, Molinos, Payogasta, San Carlos, Santa Bárbara, Seclantás, Tolombón"
+    },
+    {
+        "codigo": "3869",
+        "jurisdiccion": "Tucumán",
+        "localidades": "Ranchillos y San Miguel , Colonia Mayo, Las Cejas, Los Ralos, Villa Rescate, Villa Tercera"
+    },
+    {
+        "codigo": "3873",
+        "jurisdiccion": "Salta",
+        "localidades": "Tartagal, Aguaray, Alto de la Sierra, Campamento Vespucio, Campo Durán, Capiazuti, Coronel Cornejo, General Ballivián, General Mosconi, Misión Kilómetro 6, Pacará, Piquirenda, Recaredo, Salvador Mazza, Santa María, Santa Victoria Este, Tobantirenda, Tranquitas, Yacuy"
+    },
+    {
+        "codigo": "3876",
+        "jurisdiccion": "Salta",
+        "localidades": "San José de Metán, Antilla, Copo Quile, El Galpón, El Jardín, El Naranjo, El Potrero, El Tala, El Tunal, La Candelaria, Lumbreras, Metán Viejo, Presa El Tunal, Río Piedras, Rosario de la Frontera, San Felipe"
+    },
+    {
+        "codigo": "3877",
+        "jurisdiccion": "Salta/\nChaco",
+        "localidades": "Joaquín Víctor González, Apolinario Saravia, Ceibalito, Centro 25 de Junio, Coronel Mollinedo, Coronel Olleros, El Quebrachal, Gaona, General Pizarro, Las Lajitas, Luis Burela, Macapillo, Piquete Cabado, Río del Valle, San José de la Orquera, Taco Pozo, Tolloche"
+    },
+    {
+        "codigo": "3878",
+        "jurisdiccion": "Salta",
+        "localidades": "Orán, Aguas Blancas, Campichuelo, Capitán Juan Pagé, Carboncito, Colonia Santa Rosa, Coronel Juan Solá, Dragones, Embarcación, Hickman, Hipólito Yrigoyen, Isla de Cañas, La Misión, La Unión, Los Blancos, Los Toldos, Misión Chaqueña, Misión Tierras Fiscales, Padre Lozano, Pichanal, Pluma de Pato, Pueblo Viejo, Rivadavia, San Isidro de Iruya, Santa Rosa, Urundel"
+    },
+    {
+        "codigo": "3885",
+        "jurisdiccion": "Jujuy /\nSalta",
+        "localidades": "La Quiaca, Acoyte, Barrios, Campo La Cruz, Cusi Cusi, Lagunillas del Farallón, Liviara, Nazareno, Poscaya, San Marcos, Santa Victoria Oeste, Yavi"
+    },
+    {
+        "codigo": "3886",
+        "jurisdiccion": "Jujuy",
+        "localidades": "Libertador General San Martín, Bananal, Bermejito, Caimancito, Calilegua, Chalicán, El Talar, Fraile Pintado, Palma Sola, Paulina, Valle Grande, Vinalito, Yuto"
+    },
+    {
+        "codigo": "3887",
+        "jurisdiccion": "Jujuy",
+        "localidades": "Humahuaca, Abra Pampa, Abdón Castro Tolay, Abralaite, Cangrejillos, Casabindo, Caspalá, Catua, Ciénega de Paicone, Cieneguillas, Cochinoca, Coctaca, Coranzulí, El Aguilar, El Toro, Huáncar, Iturbe, Mina Providencia, Olaroz Chico, Pairique Chico, Pastos Chicos, Puesto del Marqués, Puesto Sey, Pumahuasi, Rinconada, Rinconadillas, San Francisco de Alfarcito, San Juan de Quillaques, Santa Ana (Jujuy), Santa Catalina, Santuario de Tres Pozos, Susques, Tabladitas, Tres Cruces, Tusaquillas, Uquía, Valle Colorado"
+    },
+    {
+        "codigo": "3888",
+        "jurisdiccion": "Jujuy",
+        "localidades": "San Pedro de Jujuy, Arrayanal, Arroyo Colorado, Don Emilio, El Acheral, El Fuerte, El Piquete, El Puesto, El Quemado, El Sauzal, La Esperanza, La Manga, La Mendieta, Miraflores, Palos Blancos, Parapetí, Piedritas, Puente Lavayén, Rodeíto, Rosario de Río Grande, San Lucas, Santa Clara"
+    },
+    {
+        "codigo": "3891",
+        "jurisdiccion": "Tucumán",
+        "localidades": "Graneros, Lamadrid, Taco Ralo"
+    },
+    {
+        "codigo": "3892",
+        "jurisdiccion": "Tucumán",
+        "localidades": "Amaicha del Valle, Anca Juli, Colalao del Valle"
+    },
+    {
+        "codigo": "3894",
+        "jurisdiccion": "Tucumán",
+        "localidades": "Burruyacú, Barrio San Jorge, El Naranjo, Gobernador Garmendia, Piedrabuena, San José de Macomitas, Siete de Abril, Villa Benjamín Aráoz, Villa Padre Monti"
+    }
+]

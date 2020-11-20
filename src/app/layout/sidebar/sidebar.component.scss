@@ -1,3 +1,5 @@
+@import "../../../assets/partials/variables";
+
 #sidebar-wrapper {
   min-height: 100vh;
   margin-left: -15rem;
@@ -18,6 +20,10 @@
 
 #sidebar-wrapper.toggled {
   margin-left: 0;
+}
+
+.active {
+  color: #007bff;
 }
 
 @media (min-width: 768px) {
