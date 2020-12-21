@@ -5,11 +5,14 @@ import { CommonModule } from "@angular/common";
 // Bootstrap Modules
 import { NgbDropdownModule } from "@ng-bootstrap/ng-bootstrap";
 
+import { NgbdModalConfirm } from "./modals/modal.confirm/modal.confirm";
+
 // Pipes
 import { RecortarPipe } from "./pipes/recortar";
 
 @NgModule({
   declarations: [
+    NgbdModalConfirm,
     RecortarPipe
   ],
   imports: [
@@ -18,6 +21,7 @@ import { RecortarPipe } from "./pipes/recortar";
     NgbDropdownModule
   ],
   exports: [
+    NgbdModalConfirm,
     NgbDropdownModule,
     RecortarPipe
   ],
