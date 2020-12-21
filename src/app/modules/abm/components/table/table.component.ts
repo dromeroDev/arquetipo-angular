@@ -8,10 +8,10 @@ import { NgbdModalConfirm } from '@shared/modals/modal.confirm/modal.confirm';
 
 @Component({
   selector: "app-abm",
-  templateUrl: "./abm.component.html",
-  styleUrls: ["./abm.component.scss"],
+  templateUrl: "./table.component.html",
+  styleUrls: ["./table.component.scss"],
 })
-export class AbmComponent implements OnInit {
+export class TableComponent implements OnInit {
   public codigosArea: CodigoArea[];
   public codigosAreaShown: CodigoArea[];
 
@@ -36,6 +36,10 @@ export class AbmComponent implements OnInit {
     this.codigosAreaShown = this.codigosArea
       .map((codigo, i) => ({id: i + 1, ...codigo}))
       .slice((this.page - 1) * this.pageSize, (this.page - 1) * this.pageSize + this.pageSize);
+  }
+
+  goToView(editEnabled: boolean){
+    console.log(`View, edit enabled = ${editEnabled}`);
   }
 
   openModalConfirm(elemento: CodigoArea){

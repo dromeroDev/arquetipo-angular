@@ -17,12 +17,16 @@
             <td>
                 <i
                     class="fa fa-eye p-1"
-                    (click)="goToView(false)"
+                    routerLink="/abm/edit"
+                    [state] = "{data: codigoArea, action: 'view'}"
+                    routerLinkActive="active"
                     role="button"
                 ></i>
                 <i
                     class="fa fa-edit p-1"
-                    (click)="goToView(true)"
+                    routerLink="/abm/edit"
+                    [state] = "{data: codigoArea, action: 'edit'}"
+                    routerLinkActive="active"
                     role="button"
                 ></i>
                 <i

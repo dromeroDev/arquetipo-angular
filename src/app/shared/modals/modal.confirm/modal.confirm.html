@@ -9,6 +9,6 @@
     <p class="text-primary">{{elemento.codigo}}</p>
 </div>
 <div class="modal-footer">
-    <button type="button" class="btn btn-outline-secondary" (click)="modal.dismiss('cancel click')">Cancelar</button>
-    <button type="button" class="btn btn-danger" (click)="modal.close('Ok click')">Confirmar</button>
+    <button type="button" class="btn btn-outline-secondary" (click)="modal.dismiss('CANCELADO')">Cancelar</button>
+    <button type="button" class="btn btn-danger" (click)="modal.close(elemento)">Confirmar</button>
 </div>

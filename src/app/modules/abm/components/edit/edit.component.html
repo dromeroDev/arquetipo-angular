@@ -1,0 +1,21 @@
+<section>
+    <h1></h1>
+    <form #elementForm="ngForm">
+        <p>
+            <label>Codigo</label>
+            <input type="text" [(ngModel)]="element.codigo" name="codigo" required>
+        </p>
+        <p>
+            <label>Jurisdicción</label>
+            <input type="text" [(ngModel)]="element.jurisdiccion" name="jurisdiccion" required>
+        </p>
+        <p>
+            <label>Localidades</label>
+            <input type="text" [(ngModel)]="element.localidades" name="localidades" required>
+        </p>
+        <p>
+            <button type="submit">Cancelar</button>
+            <button type="submit" [disabled]="!elementForm.valid">Guardar</button>
+        </p>
+    </form>   
+</section>
