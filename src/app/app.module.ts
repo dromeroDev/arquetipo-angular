@@ -9,8 +9,12 @@ import { CoreModule } from "./core/core.module";
 import { LayoutModule } from "./layout/layout.module";
 import { SharedModule } from "./shared/shared.module";
 import { CustomHttpInterceptor } from "./core/interceptor/http.interceptor";
+import { NgbdModalConfirm } from "./shared/modals/modal.confirm/modal.confirm";
 
 @NgModule({
+  entryComponents:[
+    NgbdModalConfirm
+  ],
   declarations: [AppComponent],
   imports: [
     HttpClientModule,
