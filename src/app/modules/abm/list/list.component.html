@@ -10,37 +10,24 @@
     </thead>
     <tbody>
         <tr *ngFor="let codigoArea of codigosAreaShown; index as i">
-            <th scope="row">{{ i + 1 }}</th> 
+            <th scope="row">{{ i + 1 }}</th>
             <td>{{ codigoArea.codigo }}</td>
             <td>{{ codigoArea.jurisdiccion | recortar }}</td>
             <td>{{ codigoArea.localidades | recortar}}</td>
             <td>
-                <i
-                    class="fa fa-eye p-1"
-                    routerLink="/abm/edit"
-                    [state] = "{data: codigoArea, action: 'view'}"
-                    routerLinkActive="active"
-                    role="button"
-                ></i>
-                <i
-                    class="fa fa-edit p-1"
-                    routerLink="/abm/edit"
-                    [state] = "{data: codigoArea, action: 'edit'}"
-                    routerLinkActive="active"
-                    role="button"
-                ></i>
-                <i
-                    class="fa fa-trash p-1"
-                    (click)="openModalConfirm(codigoArea, 'Delete')"
-                    role="button"
-                ></i>
+                <i class="fa fa-eye p-1" routerLink="/abm/edit" [state]="{data: codigoArea, action: 'view'}"
+                    routerLinkActive="active" role="button"></i>
+                <i class="fa fa-edit p-1" routerLink="/abm/edit" [state]="{data: codigoArea, action: 'edit'}"
+                    routerLinkActive="active" role="button"></i>
+                <i class="fa fa-trash p-1" (click)="openModalConfirm(codigoArea)" role="button"></i>
             </td>
         </tr>
     </tbody>
 </table>
 
 <div class="d-flex justify-content-between p-2">
-    <ngb-pagination [collectionSize]="collectionSize" [(page)]="page" [pageSize]="pageSize" (pageChange)="refreshTable()">
+    <ngb-pagination [collectionSize]="collectionSize" [(page)]="page" [pageSize]="pageSize"
+        (pageChange)="refreshTable()">
     </ngb-pagination>
 
     <select class="custom-select" style="width: auto" [(ngModel)]="pageSize" (ngModelChange)="refreshTable()">
