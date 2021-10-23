@@ -1,15 +1,8 @@
-import { Component, OnInit, Injector, OnDestroy } from '@angular/core';
-import { Router } from '@angular/router';
-import { MenuService } from '../../core/menu/menu.service';
-declare var $: any;
+import { Component } from "@angular/core";
 
 @Component({
-    selector: 'app-sidebar',
-    templateUrl: './sidebar.component.html',
-    styleUrls: ['./sidebar.component.scss']
+  selector: "app-sidebar",
+  templateUrl: "./sidebar.component.html",
+  styleUrls: ["./sidebar.component.scss"],
 })
-
-export class SidebarComponent {
-
-    
-}
+export class SidebarComponent {}

@@ -1,13 +1,10 @@
 #offsidebar-wrapper {
-  min-height: 100vh;
+  min-height: 100%;
   position: fixed;
   top: 55px;
   right: 0px;
   left: initial;
   width: 275px;
-  -webkit-transition: all 0.25s ease-out;
-  -moz-transition: all 0.25s ease-out;
-  -o-transition: all 0.25s ease-out;
   transition: all 0.25s ease-out;
 }
 

@@ -1,5 +1,5 @@
 import { Component, OnInit } from "@angular/core";
-import { CodigoArea } from "src/app/core/models/codigoArea.model";
+import { Empleado } from "@core/models/emplado";
 import { AbmService } from "src/app/core/services/abm.service";
 
 // Modals
@@ -12,15 +12,15 @@ import { NgbdModalConfirm } from "@shared/modals/modal.confirm/modal.confirm";
   styleUrls: ["./list.component.scss"],
 })
 export class ListComponent implements OnInit {
-  public codigosArea: CodigoArea[];
-  public codigosAreaShown: CodigoArea[];
+  public empleados: Empleado[];
+  public empleadosShown: Empleado[];
 
   constructor(private abmService: AbmService, private modalService: NgbModal) {}
 
   ngOnInit(): void {
     this.abmService.getCodigosDeArea().subscribe((res) => {
-      this.codigosArea = res;
-      this.collectionSize = this.codigosArea.length;
+      this.empleados = res;
+      this.collectionSize = this.empleados.length;
       this.refreshTable();
     });
   }
@@ -30,7 +30,7 @@ export class ListComponent implements OnInit {
   collectionSize = 0;
 
   refreshTable() {
-    this.codigosAreaShown = this.codigosArea
+    this.empleadosShown = this.empleados
       .map((codigo, i) => ({ id: i + 1, ...codigo }))
       .slice(
         (this.page - 1) * this.pageSize,
@@ -42,7 +42,7 @@ export class ListComponent implements OnInit {
     console.log(`View, edit enabled = ${editEnabled}`);
   }
 
-  openModalConfirm(elemento: CodigoArea) {
+  openModalConfirm(elemento: Empleado) {
     let modal = this.modalService.open(NgbdModalConfirm);
 
     modal.result.then(
@@ -57,13 +57,13 @@ export class ListComponent implements OnInit {
     modal.componentInstance.elemento = elemento;
   }
 
-  deleteElement(elemento: CodigoArea) {
-    const index = this.codigosArea.findIndex((item) => {
-      return item.codigo === elemento.codigo;
+  deleteElement(elemento: Empleado) {
+    const index = this.empleados.findIndex((item) => {
+      return item.legajo === elemento.legajo;
     });
 
     if (index > -1) {
-      this.codigosArea.splice(index, 1);
+      this.empleados.splice(index, 1);
       // TODO eliminar permanentemente
       this.refreshTable();
     }

@@ -1,11 +1,12 @@
 @import "../../../assets/partials/variables";
 
+.sidebar-heading {
+  border-bottom: 1px solid #ccc;
+}
+
 #sidebar-wrapper {
-  min-height: 100vh;
+  min-height: 100%;
   margin-left: -15rem;
-  -webkit-transition: margin 0.25s ease-out;
-  -moz-transition: margin 0.25s ease-out;
-  -o-transition: margin 0.25s ease-out;
   transition: margin 0.25s ease-out;
 }
 
@@ -16,14 +17,22 @@
 
 #sidebar-wrapper .list-group {
   width: 15rem;
+  li {
+    cursor: pointer;
+    &:hover {
+      background-color: $azul !important;
+      color: white;
+    }
+  }
 }
 
 #sidebar-wrapper.toggled {
   margin-left: 0;
 }
 
-.active {
-  color: #007bff;
+.list-group-item.active {
+  color: $azul;
+  border-color: #ccc;
 }
 
 @media (min-width: 768px) {
